@@ -8,7 +8,7 @@
 <img src="images/Final HIghPoint Elec analysis.png?raw=true"/>
 
 ---
-#### [Linked File Project](/files/"DataCamp_presentation.pdf")
+#### [New Product Marketing Analysis](/files/"DataCamp_presentation.pdf")
 <img src="images/Image_for_DataCamp_presentation_title.png?raw=true"/>
 This was my capstone project for my Professional Data Analyst certification from DataCamp. In this project, I analyzed marketing data for a new product line to help the company decide which marketing methods were most effective. 
 
