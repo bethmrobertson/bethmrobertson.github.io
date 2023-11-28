@@ -5,8 +5,7 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/New_House_Electricity_Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="images/Final HIghPoint Elec analysis.png?raw=true"/>
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
