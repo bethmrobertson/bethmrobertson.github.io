@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/New_House_Electricity_Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
