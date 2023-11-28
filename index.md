@@ -27,7 +27,9 @@ In this project, I analyzed marketing data for a new product line to help the co
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main questions were:
 - What schools are struggling the most?
 - How does class size affect college admission?
-- What are the top math schools in the state? 
+- What are the top math schools in the state?
+
+Here's the [link]([url](https://www.linkedin.com/posts/bethmrobertson_analysis-of-massachusetts-public-school-data-activity-7129998073363120128-E1Wk?utm_source=share&utm_medium=member_desktop)) to my LinkedIn video post about this project.
 
 ---
 
