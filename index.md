@@ -15,9 +15,8 @@ Our son lives on a small property on the west side of Elgin, IL. At the beginnin
 In this project, I analyzed marketing data for a new product line to help the company decide which marketing methods were most effective. This PowerPoint presentation was part of the capstone project for my Professional Data Analyst certification from DataCamp. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/foods-here-beth-robertson-cqc8c?trackingId=X1awjXu1Qs2asCPltCGNbQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BXlbKfQ1JTDe9FrGCIvxqBQ%3D%3D)
-[<img src="images/Speed Racer.webp?raw=true"/>]
-My analysis of data from a food delivery service, much like Door Dash, in Brazil. 
+#### [Food Delivery Analysis](https://www.linkedin.com/pulse/foods-here-beth-robertson-cqc8c?trackingId=X1awjXu1Qs2asCPltCGNbQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BXlbKfQ1JTDe9FrGCIvxqBQ%3D%3D)
+[<img src="images/Speed Racer.webp?raw=true"/>]My analysis of data from a food delivery service, much like Door Dash, in Brazil. 
 
 
 ---
