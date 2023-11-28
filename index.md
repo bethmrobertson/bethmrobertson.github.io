@@ -12,7 +12,7 @@ Our son lives on a small property on the west side of Elgin, IL. At the beginnin
 ---
 #### [New Product Marketing Analysis](/files/DataCamp_presentation.pdf)
 <img src="images/Image_for_DataCamp_presentation_title.png?raw=true"/>
-This was my capstone project for my Professional Data Analyst certification from DataCamp. In this project, I analyzed marketing data for a new product line to help the company decide which marketing methods were most effective. 
+In this project, I analyzed marketing data for a new product line to help the company decide which marketing methods were most effective. This PowerPoint presentation was part of the capstone project for my Professional Data Analyst certification from DataCamp. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
