@@ -5,7 +5,7 @@
 ### My Projects
 
 #### ["New" House Electricity Project](/New_House_Electricity_Project)
-<img src="images/Final HIghPoint Elec analysis.png?raw=true"/>
+<img src="images/Final HIghPoint Elec analysis.png?raw=true"/> <br>
 #### [Project description] 
 Our son lives on a small property on the west side of Elgin, IL. At the beginning of August, he received the electricity bill for July. It was almost $400! We were fairly shocked! We live in Houston, TX and it was a blazing-hot summer here. N's house is 2100 sq. ft. and ours is 2800 sq. ft. Our July bill was nowhere near $400. So I decided to analyze the data to see why his bill was so much higher than ours.
 
@@ -18,7 +18,7 @@ In this project, I analyzed marketing data for a new product line to help the co
 #### [Food Delivery Analysis](https://www.linkedin.com/pulse/foods-here-beth-robertson-cqc8c?trackingId=X1awjXu1Qs2asCPltCGNbQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BXlbKfQ1JTDe9FrGCIvxqBQ%3D%3D)
 [<img src="images/Speed Racer.webp?raw=true"/>]<br> *image credit: thecouriernetwork.org/2021/10/28/delivery-memes-1/*
 <br>
-##### My analysis of data from a food delivery service, much like Door Dash, in Brazil. 
+### My analysis of data from a food delivery service, much like Door Dash, in Brazil. 
 
 
 ---
