@@ -16,7 +16,8 @@ In this project, I analyzed marketing data for a new product line to help the co
 
 ---
 #### [Food Delivery Analysis](https://www.linkedin.com/pulse/foods-here-beth-robertson-cqc8c?trackingId=X1awjXu1Qs2asCPltCGNbQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BXlbKfQ1JTDe9FrGCIvxqBQ%3D%3D)
-[<img src="images/Speed Racer.webp?raw=true"/>]<br> credit: thecouriernetwork.org/2021/10/28/delivery-memes-1/<br>My analysis of data from a food delivery service, much like Door Dash, in Brazil. 
+[<img src="images/Speed Racer.webp?raw=true"/>]<br> *image credit: thecouriernetwork.org/2021/10/28/delivery-memes-1/*
+<br>My analysis of data from a food delivery service, much like Door Dash, in Brazil. 
 
 
 ---
