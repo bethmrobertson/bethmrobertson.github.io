@@ -2,7 +2,7 @@
 
 ---
 
-### Learn About My Projects
+### My Projects
 
 #### ["New" House Electricity Project](/New_House_Electricity_Project)
 <img src="images/Final HIghPoint Elec analysis.png?raw=true"/>
