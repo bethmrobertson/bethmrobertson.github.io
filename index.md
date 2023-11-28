@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/New_House_Electricity_Project)
+#### ["New" House Electricity Project](/New_House_Electricity_Project)
 <img src="images/Final HIghPoint Elec analysis.png?raw=true"/>
 
 ---
