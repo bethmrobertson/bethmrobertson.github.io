@@ -8,7 +8,7 @@
 <img src="images/Final HIghPoint Elec analysis.png?raw=true"/>
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Linked File Project](/files/"DataCamp presentation.pdf")
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
