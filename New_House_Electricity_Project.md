@@ -1,8 +1,7 @@
 ## "New" House Electricity Project
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
-
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
+**Project description:** Our son lives on a small property on the west side of Elgin, IL. At the beginning of August, he received the electricity bill for July. It was almost $400! We were fairly shocked! We live in Houston, TX and it was a blazing-hot summer here. N's house is 2100 sq. ft. and ours is 2800 sq. ft. Our July bill was nowhere near $400. So I decided to analyze the data to see why his bill was so much higher than ours. 
+ 
 
 ### 1. You can have sections and text.
 
