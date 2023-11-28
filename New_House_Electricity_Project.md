@@ -9,11 +9,13 @@ The final chart shows that the electricity cost is most affected by the temperat
 
 **Background**
 This is the first summer that we have owned this property so we have no historic data to compare with. What we did have were a lot of questions about possible factors at play here, other than the temperature. Some of these questions were:
+
+<br>
 Does electricity cost more in western Elgin, IL than in Houston, TX?
-What effect did using the window a/c units in the house have on the total usage? We used the window units when human guests stayed upstairs.
-Did having boarding dogs affect the amount of electricity used? The doggie guest house also uses a window a/c unit.
-What effect does the age of the system have on our usage and costs?
-One bonus: we installed a weather station on the property when we were there at the end of August. So from August 25 forward, we have exact temperature data for our location.
+<br>What effect did using the window a/c units in the house have on the total usage? We used the window units when human guests stayed upstairs.
+<br>Did having boarding dogs affect the amount of electricity used? The doggie guest house also uses a window a/c unit.
+<br>What effect does the age of the system have on our usage and costs?
+<br>One bonus: we installed a weather station on the property when we were there at the end of August. So from August 25 forward, we have exact temperature data for our location.
 
 **Collecting the Data**
 The first thing I did was compare electricity costs between Houston and Elgin. It turns out that we are paying almost the exact same amount per kWh in both locations. So that wasn't a factor.
