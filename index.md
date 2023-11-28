@@ -9,8 +9,8 @@
 
 ---
 #### [Linked File Project](/files/"DataCamp_presentation.pdf")
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/Image_for_DataCamp_presentation_title.png?raw=true"/>
+This was my capstone project for my Professional Data Analyst certification from DataCamp. In this project, I analyzed marketing data for a new product line to help the company decide which marketing methods were most effective. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
