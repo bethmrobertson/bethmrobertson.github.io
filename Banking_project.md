@@ -5,10 +5,12 @@
 <img src="images/World Bank IDA logo.png?raw=true"/>
 
 **The Big Reveal**
-The final chart shows that the electricity cost is most affected by the temperature, not by any of the many other factors we thought might be in play. So now we know. More a/c when it’s hotter. (Surprise!)
+- Ukraine is the country that currently owes the most money to the IDA - over $1 billion.
+- The South Asia region has the highest total amount currently due to the IDA - over $8.6 trillion.
+- Some of the data is not tidy. The regions "Western and Central Africa" and "Eastern and Southern Africa" are in the dataset twice, once all capitalized and once as shown in this sentence.
 
-**Background**
-This is the first summer that we have owned this property so we have no historic data to compare with. What we did have were a lot of questions about possible factors at play here, other than the temperature. Some of these questions were:
+**The Data**
+I used SQL to extract and analyze data from [this dataset](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
 <br>  - Does electricity cost more in western Elgin, IL than in Houston, TX?
 <br>  - What effect did using the window a/c units in the house have on the total usage? We used the window units when human guests stayed upstairs.
 <br>  - Did having boarding dogs affect the amount of electricity used? The doggie guest house also uses a window a/c unit.
