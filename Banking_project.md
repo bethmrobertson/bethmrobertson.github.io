@@ -11,11 +11,11 @@
 
 **The Data**
 I used SQL to extract and analyze data from [this dataset](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
-<br>  - Does electricity cost more in western Elgin, IL than in Houston, TX?
-<br>  - What effect did using the window a/c units in the house have on the total usage? We used the window units when human guests stayed upstairs.
-<br>  - Did having boarding dogs affect the amount of electricity used? The doggie guest house also uses a window a/c unit.
-<br>  - What effect does the age of the system have on our usage and costs?<br>
-<br>One bonus: we installed a weather station on the property when we were there at the end of August. So from August 25 forward, we have exact temperature data for our location.
+<br>  Some other interesting information about this dataset:
+<br>  - The earliest date of a loan or grant in this dataset is 2011-04-30. (The IDA was founded in 1960. I wonder how they kept track of grants and loans before they set up this database.)
+<br>  - The latest date in this data is 2023-10-31.
+<br>  - 40% of the loans ever made are paid off.
+<br>  - The IDA divides the world into 11 regions (given that the note above are caused by data entry errors.
 <br>
 
 **Collecting the Data**
