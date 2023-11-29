@@ -10,12 +10,13 @@
 - Some of the data is not tidy. The regions "Western and Central Africa" and "Eastern and Southern Africa" are in the dataset twice, once all capitalized and once as shown in this sentence.
 
 **The Data**
+<br>
 I used SQL to extract and analyze data from [this dataset](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).
 <br>  Some other interesting information about this dataset:
 <br>  - The earliest date of a loan or grant in this dataset is 2011-04-30. (The IDA was founded in 1960. I wonder how they kept track of grants and loans before they set up this database.)
 <br>  - The latest date in this data is 2023-10-31.
 <br>  - 40% of the loans ever made are paid off.
-<br>  - The IDA divides the world into 11 regions (given that the note above are caused by data entry errors.
+<br>  - The IDA divides the world into 11 regions (given that the errors noted above are caused by data entry errors).
 <br>
 
 **Collecting the Data**
