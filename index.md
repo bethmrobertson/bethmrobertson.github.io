@@ -29,7 +29,7 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 - How does class size affect college admission?
 - What are the top math schools in the state?
 
-Here is the [link](https://www.linkedin.com/posts/bethmrobertson_analysis-of-massachusetts-public-school-data-activity-7129998073363120128-E1Wk?utm_source=share&utm_medium=member_desktop) to my video presentation of this project on LinkedIn
+##### Here is the [link](https://www.linkedin.com/posts/bethmrobertson_analysis-of-massachusetts-public-school-data-activity-7129998073363120128-E1Wk?utm_source=share&utm_medium=member_desktop) to my video presentation of this project on LinkedIn
 ---
 
 ### Category Name 2
