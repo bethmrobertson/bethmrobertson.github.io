@@ -32,13 +32,6 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 ##### Here is the [link](https://www.linkedin.com/posts/bethmrobertson_analysis-of-massachusetts-public-school-data-activity-7129998073363120128-E1Wk?utm_source=share&utm_medium=member_desktop) to my video presentation of this project on LinkedIn
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
