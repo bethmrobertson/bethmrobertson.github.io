@@ -24,7 +24,7 @@ In this project, I analyzed marketing data for a new product line to help the co
 <br>
  
 ---
-#### [Massachusetts Public Schools Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Massachusetts Public Schools Project](https://www.linkedin.com/posts/bethmrobertson_analysis-of-massachusetts-public-school-data-activity-7129998073363120128-E1Wk?utm_source=share&utm_medium=member_desktop)
 [<img src="images/Mass%20Public%20Schools%20dashboard%20pic.png?raw=true"/>]
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main questions were:
 - What schools are struggling the most?
