@@ -23,11 +23,9 @@ In this project, I analyzed marketing data for a new product line to help the co
 <img src="images/Speed Racer.webp?raw=true"/>]<br> *image credit: thecouriernetwork.org/2021/10/28/delivery-memes-1/*
 <br>
  
-
-
 ---
 #### [Massachusetts Public Schools Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/Mass%20Public%20Schools%20dashboard%20pic.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Mass%20Public%20Schools%20dashboard%20pic.png?raw=true"/>]
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main questions were:
 - What schools are struggling the most?
 - How does class size affect college admission?
