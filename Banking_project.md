@@ -1,6 +1,6 @@
 ## Banking Grants and Loans Project
 
-**Project Description** I was asked to look at data from the World Bank International Development Agency (IDA) grants and loans program. The dataset is live and is updated frequently. The data I used was from 2023-11-29. 
+**Project Description** I was asked to look at data from the World Bank International Development Association (IDA) grants and loans program. The dataset is live and is updated frequently. The data I used was from 2023-11-29. 
 
 <img src="images/World Bank IDA logo.png?raw=true"/>
 
