@@ -7,7 +7,7 @@
 #### [World Bank Loans and Grants](/Banking_project)
 <img src="images/World Bank IDA logo.png?raw=true"/> <br>
 #### Project description 
-Our son lives on a small property on the west side of Elgin, IL. At the beginning of August, he received the electricity bill for July. It was almost $400! We were fairly shocked! We live in Houston, TX and it was a blazing-hot summer here. N's house is 2100 sq. ft. and ours is 2800 sq. ft. Our July bill was nowhere near $400. So I decided to analyze the data to see why his bill was so much higher than ours.
+I was asked to look at data from the World Bank International Development Association (IDA) grants and loans program. This dataset contains historical information about loans and grants given by the IDA, including region of the world, country, purpose of the loan/grant, original amount given, the service charge rate, payments, and the amount still due. The dataset is live and is updated frequently. The data I used was from 2023-11-29.
 
 #### ["New" House Electricity Project](/New_House_Electricity_Project)
 <img src="images/Final HIghPoint Elec analysis.png?raw=true"/> <br>
