@@ -18,6 +18,6 @@ I used SQL to extract and analyze data from [this dataset](https://finances.worl
 <br>  - The latest date in this data is 2023-10-31.
 <br>  - 40% of the loans ever made are paid off.
 <br>  - The IDA divides the world into 11 regions (given that the errors noted above are caused by data entry errors).
-<br>  <img src="images/World Bank regions.pdf?raw=true"/>
+<br>  <img src="images/DAA Bank regions.png?raw=true"/>
 
 
