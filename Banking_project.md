@@ -1,6 +1,7 @@
 ## Banking Grants and Loans Project
 
-**Project Description** I was asked to look at data from the World Bank International Development Association (IDA) grants and loans program. This dataset contains historical information about loans and grants given by the IDA, including region of the world, country, purpose of the loan/grant, original amount given, the service charge rate, payments, and the amount still due. The dataset is live and is updated frequently. The data I used was from 2023-11-29. 
+**Project Description** <br>
+I was asked to look at data from the World Bank International Development Association (IDA) grants and loans program. This dataset contains historical information about loans and grants given by the IDA, including region of the world, country, purpose of the loan/grant, original amount given, the service charge rate, payments, and the amount still due. The dataset is live and is updated frequently. The data I used was from 2023-11-29. 
 
 <img src="images/World Bank IDA logo.png?raw=true"/>
 
