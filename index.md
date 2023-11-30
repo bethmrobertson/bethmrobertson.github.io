@@ -5,7 +5,7 @@
 ### My Projects
 
 #### [World Bank Loans and Grants](/Banking_project)
-<img src="images/Final HIghPoint Elec analysis.png?raw=true"/> <br>
+<img src="images/World Bank IDA logo.png?raw=true"/> <br>
 
 
 #### ["New" House Electricity Project](/New_House_Electricity_Project)
