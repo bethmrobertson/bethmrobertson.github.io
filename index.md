@@ -10,12 +10,12 @@
 This analysis is from a dataset used in a study conducted in 2014 of 70,000 clinical database records.
 
 Several different department administrators at the hospital want insights into specific parts of the data. I used MySQL to access, clean, and analyze the data.
-
+---
 ### [World Bank Loans and Grants](/Banking_project)
 <img src="images/World Bank IDA logo.png?raw=true"/> <br>
 #### Project description 
 I was asked to look at data from the World Bank International Development Association (IDA) grants and loans program. This dataset contains historical information about loans and grants given by the IDA, including region of the world, country, purpose of the loan/grant, original amount given, the service charge rate, payments, and the amount still due. The dataset is live and is updated frequently. The data I used was from 2023-11-29.
-
+---
 ### ["New" House Electricity Project](/New_House_Electricity_Project)
 <img src="images/Final HIghPoint Elec analysis.png?raw=true"/> <br>
 #### Project description 
