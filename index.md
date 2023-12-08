@@ -4,7 +4,7 @@
 
 ## My Projects
 
-### [Hosptial Data Analysis](/Hospital_Data_Analysis)
+### [Hospital Data Analysis](/Hospital_Data_Analysis)
 <img src="images/Hospital Data Analysis Project banner.png?raw=true"/> <br>
 #### Project description 
 This analysis is from a dataset used in a study conducted in 2014 of 70,000 clinical database records.
