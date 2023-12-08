@@ -5,7 +5,7 @@
 ## My Projects
 
 ### [Hosptial Data Analysis](/Hospital_Data_Analysis)
-<img src="images/World Bank IDA logo.png?raw=true"/> <br>
+<img src="images/Hospital Data Analysis Project banner.png?raw=true"/> <br>
 #### Project description 
 This analysis is from a dataset used in a study conducted in 2014 of 70,000 clinical database records.
 
