@@ -1,7 +1,7 @@
 # Hospital Data Analysis Project using MySQL
 
 **Project Description** <br>
-This analysis is from a dataset used in a study conducted in 2014 of 70,000 clinical database records.
+This analysis is from a dataset of 70,000 clinical database records used in a study conducted in 2014.
 Several different department administrators at the hospital want insights into specific parts of the data. I used MySQL to access, clean, and analyze the data. 
 
 <img src="images/?raw=true"/>
@@ -11,7 +11,7 @@ Several different department administrators at the hospital want insights into s
 
 **The Data**
 <br>
-I used SQL to extract and analyze data from [this dataset]
+*******
 <br>  
 **Questions and Insights**
 <br>  Number of Days
