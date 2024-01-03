@@ -15,4 +15,4 @@ I used SQL to extract and analyze data from [this dataset](https://finances.worl
 <br>  
 **Some other interesting information about this dataset**
 <br>  - 
-<br>  <img src="images/DAA Bank regions.png?raw=true"/>
+<br> 
