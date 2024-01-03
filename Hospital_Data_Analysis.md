@@ -20,7 +20,7 @@ Our health care data analyst manager wants to know what the distribution of time
 A histogram is a way to show the number of occurrences using grouping. I used a histogram here, grouped by number of days in the hospital stay, to show the number of patients who stayed each number of days.
 
 We can see that 80,617 of the 98,066 (82%) of patients stayed less than 7 days.
-￼
+<img src="images/Hospital bar chart days of stay.png?raw=true"/>￼
 Each * = 200 patients
 
 Specialities
