@@ -57,7 +57,7 @@ Average = 33 to 66 lab procedures<br>
 Few = fewer than 33 lab procedures<br>
 <br>￼
 There seems to be a correlation between number of lab procedures and length of stay. 
-<img src="images/Results avg stay time vs lab procs.png?raw=true" height=200/>
+<img src="images/Results avg stay time vs lab procs.png?raw=true" height=100/>
 <br>
 **Action Item:** Which of these is causing the other? More labs because of a longer stay? A longer stay because of the need for more labs?
 
@@ -66,13 +66,13 @@ There seems to be a correlation between number of lab procedures and length of s
 You just got an email from a co-worker in research. They want to do a medical test with anyone who is African American or had an "Up" for metformin. 
 
 This table shows a partial result of African American patients and those with an “Up” for metformin. There are 20,059 results.
-<br>￼
+<br>￼<br>
 <img src="images/Results partial Af Am or Up for metformin.png?raw=true" height=200/>
 
 <br>***Hospital stays less than average stay length***<br>
-The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average time in the hospital.
+The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average length of time in the hospital, 4.4 days.
 
-Partial result:<br>
+Partial result:<br><br>
 <img src="images/Results partial stays less than avg.png?raw=true" height=200/>￼
 
 **Action Item: investigate the story behind these successful hospital stays and find the causes of the stronger than average outcome.
