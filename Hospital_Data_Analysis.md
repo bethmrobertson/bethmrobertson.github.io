@@ -38,6 +38,7 @@ This table show the specialties with an average of more than 2.5 procedures and 
 <br>***Lab procedures by race***<br>
 The Chief of Nursing wants to know if the hospital seems to be treating patients of different races differently, specifically regarding the number of lab procedures done.
 
+<img src="images/Results Lab procs by race.png?raw=true" height=200/>
 According to our analysis, the average number of lab procedures does not vary significantly by race.
 
 **Action Item: Figure out why there are so many patient records with no race or “other” recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
