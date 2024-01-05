@@ -71,12 +71,13 @@ This table shows a partial result of African American patients and those with an
 The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average time in the hospital.
 
 Partial result:
-<img src="images/Results partial .png?raw=true" height=200/>￼
+<img src="images/Results partial stays less than avg.png?raw=true" height=200/>￼
 
 **Action Item: investigate the story behind these successful hospital stays and find the causes of the stronger than average outcome.
 
-Readmission Summary
+<br>***Readmission Summary***<br>
 Our boss has asked us to write a summary for the top 50 medication patients, break any ties with the number of lab procedures  (highest at the top). But they want a written summary of the format like this:
 "Patient 2383 was Caucasian and was readmitted. They had 21 medications and 32 lab procedures."
 
 <br> 
+<img src="images/Results partial readmitted w num meds lab procs.png?raw=true" height=200/>
