@@ -14,6 +14,7 @@ Several different department administrators at the hospital want insights into s
 - Ensure race information is collected upon admission.
 - The average number of lab procedures performed does not vary significantly by race.
 - There is a correlation between the number of lab procedures and the length of the hospital stay. Determine if one is causal of the other.
+- Investigate emergency admissions that stayed less than the average number of days to find possible improvements for the future.
 <br>
 
 **Questions and Insights**
@@ -60,7 +61,7 @@ There seems to be a correlation between number of lab procedures and length of s
 <br>
 **Action Item:** Which of these is causing the other? More labs because of a longer stay? A longer stay because of the need for more labs?
 
-<br>***“Up” for metformin***<br>
+<br>***Up for Metformin***<br>
 
 You just got an email from a co-worker in research. They want to do a medical test with anyone who is African American or had an "Up" for metformin. 
 
