@@ -61,7 +61,7 @@ You just got an email from a co-worker in research. They want to do a medical te
 
 This table shows a partial result of African American patients and those with an “Up” for metformin. There are 20,059 results.
 ￼
-<img src="images/Results Lab procs by race.png?raw=true" height=200/>
+<img src="images/Results partial Af Am or Up for metformin.png?raw=true" height=200/>
 
 <br>***Hospital stays less than average stay length***<br>
 The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average time in the hospital.
