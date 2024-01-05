@@ -10,7 +10,7 @@ Several different department administrators at the hospital want insights into s
 - 82% of patients stay in the hospital fewer than 7 days.
 - Some patients are seeing the same specialty for multiple procedures over multiple encounters. These patients should be investigated to determine if there are ways to prevent multiple visits and thus lower costs. Options might include case worker followups, better initial diagnoses, and more clear post-procedure medication instructions.
 - Ensure all personnel are entering specialty information from a curated list.
-- 2280 patients have no race information listed while 1524 have 'other' listed as their race. Does the rangeo of possibilities for race need to be expanded?
+- 2280 patients have no race information listed while 1524 have 'other' listed as their race. Does the range of possibilities for race need to be expanded?
 - Ensure race information is collected upon admission.
 - The average number of lab procedures performed does not vary significantly by race.
 - There is a correlation between the number of lab procedures and the length of the hospital stay. Determine if one is causal of the other.
@@ -20,46 +20,47 @@ Several different department administrators at the hospital want insights into s
 **Questions and Insights**
 <br>
 ***Number of Days*** <br>
-Our health care data analyst manager wants to know what the distribution of time spent in the hospital looks like.
+Our health care data analyst manager wants to know what the **distribution of time spent in the hospital** looks like.
 
 A histogram is a way to show the number of occurrences using grouping. I used a histogram here, grouped by number of days in the hospital stay, to show the number of patients who stayed each number of days.
 
-We can see that 80,617 of the 98,066 (82%) of patients stayed less than 7 days.
+We can see that 80,617 of the 98,066 **(82%) of patients stayed less than 7 days**.
 <br>
 <img src="images/Hospital bar chart days of stay.png?raw=true" height=200/>￼
 
 Each * = 200 patients
 
 <br> ***Specialities*** <br>
-There is a brand new Hospital Director who wants to know what medical specialties are doing the most number of procedures on average. 
+There is a brand new Hospital Director who wants to know **which medical specialties are doing the most procedures**, on average. 
 
 There are 73 medical specialties practiced at the hospitals in the study.
 
 This table show the specialties with an average of more than 2.5 procedures and at least 50 patients.
 <img src="images/Specialties w most procedures.png?raw=true" height=200/>￼
 <br>
-**Action Item:** The possible duplication of specialties (Radiologist / Radiology) indicates that the data needs to be thoroughly reviewed with the aim of establishing the correct way to enter this specialty into the system. The new procedure will need to be developed with those who know whether these two specialties should be combined and communicated to the people who are entering the data. 
+**Action Item:** The possible **duplication of specialties** (Radiologist / Radiology) indicates that the data needs to be thoroughly reviewed with the aim of establishing the correct way to enter this specialty into the system. The new procedure will need to be developed with those who know whether these two specialties should be combined and communicated to the people who are entering the data. 
 
-**Action item:** There are some patients who appear to have multiple procedures performed by the same specialty. Are there other questions that need to be asked about these patients, like: Were those procedures performed during the same hospital stay? During the same specialty encounter? Which patients are having many repeat procedures? This could potentially provide some insights into ways to better manage patient health and satisfaction, as well as reduce costs.
+**Action item:** There are some patients who appear to have **multiple procedures performed by the same specialty**. Are there other questions that need to be asked about these patients, like: Were those procedures performed during the same hospital stay? During the same specialty encounter? Which patients are having many repeat procedures? This could potentially provide some insights into ways to better manage patient health and satisfaction, as well as reduce costs.
 <br>
 <br>***Lab procedures by race***<br>
-The Chief of Nursing wants to know if the hospital seems to be treating patients of different races differently, specifically regarding the number of lab procedures done.
+The Chief of Nursing wants to know if the hospital seems to be **treating patients of different races differently**, specifically regarding the number of lab procedures done.
 
 <img src="images/Results Lab procs by race.png?raw=true" height=200/>
-According to our analysis, the average number of lab procedures does not vary significantly by race.
+
+According to our analysis, **the average number of lab procedures does not vary significantly by race.**
 <br>
 <br>
-**Action Item:** Figure out why there are so many patient records with no race or “other” recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
+**Action Item:** Figure out why there are so many **patient records with no race or “other”** recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
 
 <br>***Average length of stay related to number of lab procedures***<br>
 Many = 66 or more lab procedures<br>
 Average = 33 to 66 lab procedures<br>
 Few = fewer than 33 lab procedures<br>
 <br>￼
-There seems to be a correlation between number of lab procedures and length of stay. 
+There seems to be a **correlation between number of lab procedures and length of stay**. 
 <img src="images/Results avg stay time vs lab procs.png?raw=true" height=100/>
 <br>
-**Action Item:** Which of these is causing the other? More labs because of a longer stay? A longer stay because of the need for more labs?
+**Action Item:** **Which of these is causing the other?** More labs because of a longer stay? A longer stay because of the need for more labs?
 
 <br>***Up for Metformin***<br>
 
