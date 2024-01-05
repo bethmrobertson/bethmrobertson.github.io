@@ -6,9 +6,12 @@ Several different department administrators at the hospital want insights into s
 
 <img src="images/Hospital Data Analysis Project banner.png?raw=true" height = 200/>
 
-**Action Items Summary**
-- 
-
+**Project Summary and Action Items**
+- 82% of patients stay in the hospital fewer than 7 days.
+- Some patients are seeing the same specialty for multiple procedures over multiple encounters. These patients should be investigated to determine if there are ways to prevent multiple visits and thus lower costs. Options might include case worker followups, better initial diagnoses, and more clear post-procedure medication instructions.
+- Ensure all personnel are entering specialty information from a curated list.
+- The average number of lab procedures performed does not vary significantly by race.
+- There is a correlation between the number of lab procedures and the length of the hospital stay. Determine if one is causal of the other.
 <br>
 
 **Questions and Insights**
@@ -31,9 +34,9 @@ There are 73 medical specialties practiced at the hospitals in the study.
 
 This table show the specialties with an average of more than 2.5 procedures and at least 50 patients.
 <img src="images/Specialties w most procedures.png?raw=true" height=200/>￼
-**Action Item: The possible duplication of specialties (Radiologist / Radiology) indicates that the data needs to be thoroughly reviewed with the aim of establishing the correct way to enter this specialty into the system. The new procedure will need to be developed with those who know whether these two specialties should be combined and communicated to the people who are entering the data. 
+**Action Item:** The possible duplication of specialties (Radiologist / Radiology) indicates that the data needs to be thoroughly reviewed with the aim of establishing the correct way to enter this specialty into the system. The new procedure will need to be developed with those who know whether these two specialties should be combined and communicated to the people who are entering the data. 
 
-**Action item: There are some patients who appear to have multiple procedures performed by the same specialty. Are there other questions that need to be asked about these patients, like: Were those procedures performed during the same hospital stay? During the same specialty encounter? Which patients are having many repeat procedures? This could potentially provide some insights into ways to better manage patient health and satisfaction, as well as reduce costs.
+**Action item:** There are some patients who appear to have multiple procedures performed by the same specialty. Are there other questions that need to be asked about these patients, like: Were those procedures performed during the same hospital stay? During the same specialty encounter? Which patients are having many repeat procedures? This could potentially provide some insights into ways to better manage patient health and satisfaction, as well as reduce costs.
 
 <br>***Lab procedures by race***<br>
 The Chief of Nursing wants to know if the hospital seems to be treating patients of different races differently, specifically regarding the number of lab procedures done.
@@ -41,13 +44,12 @@ The Chief of Nursing wants to know if the hospital seems to be treating patients
 <img src="images/Results Lab procs by race.png?raw=true" height=200/>
 According to our analysis, the average number of lab procedures does not vary significantly by race.
 
-**Action Item: Figure out why there are so many patient records with no race or “other” recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
+**Action Item:** Figure out why there are so many patient records with no race or “other” recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
 
 <br>***Average length of stay related to number of lab procedures***<br>
 Many = 66 or more lab procedures
 Average = 33 to 66 lab procedures
 Few = fewer than 33 lab procedures
-
 ￼
 There seems to be a correlation between number of lab procedures and length of stay. 
 
@@ -59,6 +61,7 @@ You just got an email from a co-worker in research. They want to do a medical te
 
 This table shows a partial result of African American patients and those with an “Up” for metformin. There are 20,059 results.
 ￼
+<img src="images/Results Lab procs by race.png?raw=true" height=200/>
 
 <br>***Hospital stays less than average stay length***<br>
 The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average time in the hospital.
