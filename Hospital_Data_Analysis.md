@@ -10,6 +10,8 @@ Several different department administrators at the hospital want insights into s
 - 82% of patients stay in the hospital fewer than 7 days.
 - Some patients are seeing the same specialty for multiple procedures over multiple encounters. These patients should be investigated to determine if there are ways to prevent multiple visits and thus lower costs. Options might include case worker followups, better initial diagnoses, and more clear post-procedure medication instructions.
 - Ensure all personnel are entering specialty information from a curated list.
+- 2280 patients have no race information listed while xxxx have 'other' listed as their race. Does the rangeo of possibilities for race need to be expanded?
+- Ensure race information is collected upon admission.
 - The average number of lab procedures performed does not vary significantly by race.
 - There is a correlation between the number of lab procedures and the length of the hospital stay. Determine if one is causal of the other.
 <br>
@@ -55,7 +57,9 @@ There seems to be a correlation between number of lab procedures and length of s
 
 **Action Item: Which of these is causing the other? More labs because of a longer stay? A longer stay because of the need for more labs?
 
-<br>***“Up” for metformin***<br>
+<br>
+***“Up” for metformin***
+<br>
 
 You just got an email from a co-worker in research. They want to do a medical test with anyone who is African American or had an "Up" for metformin. 
 
@@ -67,7 +71,7 @@ This table shows a partial result of African American patients and those with an
 The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average time in the hospital.
 
 Partial result:
-￼
+<img src="images/Results partial Af Am or Up for metformin.png?raw=true" height=200/>￼
 
 **Action Item: investigate the story behind these successful hospital stays and find the causes of the stronger than average outcome.
 
