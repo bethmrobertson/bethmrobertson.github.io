@@ -4,7 +4,7 @@
 This analysis is from a dataset of 70,000 clinical database records used in a study conducted in 2014.
 Several different department administrators at the hospital want insights into specific parts of the data. I used MySQL to access, clean, and analyze the data. 
 
-<img src="images/Hospital Data Analysis Project banner?raw=true" height = 200/>
+<img src="images/Hospital Data Analysis Project banner.png?raw=true" height = 200/>
 
 **Action Items Summary**
 - 
