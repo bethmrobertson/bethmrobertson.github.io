@@ -56,6 +56,7 @@ Average = 33 to 66 lab procedures
 Few = fewer than 33 lab procedures
 ￼
 There seems to be a correlation between number of lab procedures and length of stay. 
+<img src="images/Results Lab procs by race.png?raw=true" height=200/>
 <br>
 **Action Item:** Which of these is causing the other? More labs because of a longer stay? A longer stay because of the need for more labs?
 
