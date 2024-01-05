@@ -6,10 +6,9 @@ Several different department administrators at the hospital want insights into s
 
 <img src="images/?raw=true"/>
 
-**The Big Reveal**
+**Recommendations**
 - 
 
-**The Data**
 <br>**Questions and Insights** <br>
 <br>  ***Number of Days*** <br>
 Our health care data analyst manager wants to know what the distribution of time spent in the hospital looks like.
