@@ -6,11 +6,14 @@ Several different department administrators at the hospital want insights into s
 
 <img src="images/Hospital Data Analysis Project banner?raw=true" height = 200/>
 
-**Recommendations**
+**Action Items Summary**
 - 
 
-<br>**Questions and Insights** <br>
-<br>  ***Number of Days*** <br>
+<br>
+
+**Questions and Insights**
+<br>
+***Number of Days*** <br>
 Our health care data analyst manager wants to know what the distribution of time spent in the hospital looks like.
 
 A histogram is a way to show the number of occurrences using grouping. I used a histogram here, grouped by number of days in the hospital stay, to show the number of patients who stayed each number of days.
