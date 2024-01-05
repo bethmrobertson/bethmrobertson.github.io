@@ -47,6 +47,7 @@ The Chief of Nursing wants to know if the hospital seems to be treating patients
 <img src="images/Results Lab procs by race.png?raw=true" height=200/>
 According to our analysis, the average number of lab procedures does not vary significantly by race.
 <br>
+
 **Action Item:** Figure out why there are so many patient records with no race or “other” recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
 
 <br>***Average length of stay related to number of lab procedures***<br>
@@ -56,11 +57,9 @@ Few = fewer than 33 lab procedures
 ￼
 There seems to be a correlation between number of lab procedures and length of stay. 
 
-**Action Item: Which of these is causing the other? More labs because of a longer stay? A longer stay because of the need for more labs?
+**Action Item:** Which of these is causing the other? More labs because of a longer stay? A longer stay because of the need for more labs?
 
-<br>
-***“Up” for metformin***
-<br>
+<br>***“Up” for metformin***<br>
 
 You just got an email from a co-worker in research. They want to do a medical test with anyone who is African American or had an "Up" for metformin. 
 
