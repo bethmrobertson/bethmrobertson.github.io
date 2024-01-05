@@ -18,7 +18,7 @@ A histogram is a way to show the number of occurrences using grouping. I used a 
 
 We can see that 80,617 of the 98,066 (82%) of patients stayed less than 7 days.
 <br>
-<img src="images/Hospital bar chart days of stay.png?raw=true"/>￼
+<img src="images/Hospital bar chart days of stay.png?raw=true"/>￼<br>
 Each * = 200 patients
 
 <br> ***Specialities*** <br>
