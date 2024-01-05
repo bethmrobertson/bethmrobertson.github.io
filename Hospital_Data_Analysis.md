@@ -57,8 +57,9 @@ Many = 66 or more lab procedures<br>
 Average = 33 to 66 lab procedures<br>
 Few = fewer than 33 lab procedures<br>
 <br>￼
-There seems to be a **correlation between number of lab procedures and length of stay**. 
 <img src="images/Results avg stay time vs lab procs.png?raw=true" height=100/>
+<br>
+There seems to be a **correlation between number of lab procedures and length of stay**. 
 <br>
 **Action Item:** **Which of these is causing the other?** More labs because of a longer stay? A longer stay because of the need for more labs?
 
