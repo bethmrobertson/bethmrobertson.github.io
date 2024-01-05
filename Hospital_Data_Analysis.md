@@ -51,9 +51,9 @@ According to our analysis, the average number of lab procedures does not vary si
 **Action Item:** Figure out why there are so many patient records with no race or “other” recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
 
 <br>***Average length of stay related to number of lab procedures***<br>
-Many = 66 or more lab procedures
-Average = 33 to 66 lab procedures
-Few = fewer than 33 lab procedures
+Many = 66 or more lab procedures<br>
+Average = 33 to 66 lab procedures<br>
+Few = fewer than 33 lab procedures<br>
 ￼
 There seems to be a correlation between number of lab procedures and length of stay. 
 <img src="images/Results avg stay time vs lab procs.png?raw=true" height=200/>
