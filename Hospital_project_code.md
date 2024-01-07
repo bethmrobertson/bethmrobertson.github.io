@@ -3,16 +3,11 @@
 **Project Description** <br>
 This page shows the code I used for the different steps of this project.
 
-***Number of Days*** <br>
-Our health care data analyst manager wants to know what the **distribution of time spent in the hospital** looks like.
-
-A histogram is a way to show the number of occurrences using grouping. I used a histogram here, grouped by number of days in the hospital stay, to show the number of patients who stayed each number of days.
-
-We can see that 80,617 of the 98,066 **(82%) of patients stayed less than 7 days**.
+***Number of Days*** 
 <br>
-<img src="images/Hospital bar chart days of stay.png?raw=true" height=200/>￼
-
-Each * = 200 patients
+I used a bar chart to show the number of patients who stayed a certain number of days to understand if most patients in the study stayed fewer than 7 days in the hospital.
+<br>
+<img src="images/Code Days of stay.png?raw=true" height=200/>￼
 
 <br> ***Specialities*** <br>
 There is a brand new Hospital Director who wants to know **which medical specialties are doing the most procedures**, on average. 
