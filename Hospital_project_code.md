@@ -15,11 +15,8 @@ To answer the question of which specialities are performing the most procedures,
 <img src="images/Code Specialties with largest avg number of procedures.png?raw=true" height=300/>￼
 <br>
 <br>***Lab procedures by race***<br>
-
+I found out the the number of lab procedures doesn't not vary significantly by race. I grouped by race and ordered by the count of the average number of lab procedures.
 <img src="images/Code Lab procs by race.png?raw=true" height=200/>
-
-According to our analysis, **the average number of lab procedures does not vary significantly by race.**
-<br>
 
 <br>***Average length of stay related to number of lab procedures***<br>
 Many = 66 or more lab procedures<br>
