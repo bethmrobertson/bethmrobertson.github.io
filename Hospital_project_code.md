@@ -20,7 +20,7 @@ I found out the the number of lab procedures doesn't not vary significantly by r
 <img src="images/Code Lab procs by race.png?raw=true" height=300/>
 
 <br>***Average length of stay related to number of lab procedures***
-A 'Case When' statement allowed me to group the number of lab procedures into Many (>66),￼ Average (33 - 66), and Few (<33) groups and then to look at days of stay for each of those groups.
+A 'CASE WHEN' statement allowed me to group the number of lab procedures into Many (>66),￼ Average (33 - 66), and Few (<33) groups and then to look at days of stay for each of those groups.
 <br>
 <img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=300/>
 <br>
@@ -36,6 +36,6 @@ Using a CTE, I was able to find patients with a shorter than average length of s
 <img src="images/Code Less than avg length of stay.png?raw=true" height=300/>￼
 
 <br>***Readmission Summary***<br>
-'Concat_WS' allowed me to create a list of readmitted patients sorted by the number of medications and lab procedures they received while they were in the hospital. 
+'CONCAT_WS' and a 'CASE WHEN' subquery allowed me to create a list of readmitted patients sorted by the number of medications and lab procedures they received while they were in the hospital. 
 <br> 
 <img src="images/Code Patients with most medications summary.png?raw=true" height=300/>
