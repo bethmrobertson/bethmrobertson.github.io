@@ -12,7 +12,7 @@ I used a bar chart to show the number of patients who stayed a certain number of
 <br> ***Specialities*** <br>
 To answer the question of which specialities are performing the most procedures, on average, I created a table. I limited the data to show an average of 2.5 procedures with at least 50 patients. 
 
-<img src="images/Code Specialties with largest average number of procedures.png?raw=true" height=200/>￼
+<img src="images/Code Specialties with largest avg number of procedures.png?raw=true" height=300/>￼
 <br>
 <br>
 <br>***Lab procedures by race***<br>
