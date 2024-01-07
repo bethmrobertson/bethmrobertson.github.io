@@ -20,7 +20,7 @@ I found out the the number of lab procedures doesn't not vary significantly by r
 <img src="images/Code Lab procs by race.png?raw=true" height=200/>
 
 <br>***Average length of stay related to number of lab procedures***
-<br>￼
+A Case When statement allowed me to group the number of lab procedures into Many (>66),￼
 <img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=200/>
 <br>
 
