@@ -20,14 +20,14 @@ I found out the the number of lab procedures doesn't not vary significantly by r
 <img src="images/Code Lab procs by race.png?raw=true" height=300/>
 
 <br>***Average length of stay related to number of lab procedures***
-A Case When statement allowed me to group the number of lab procedures into Many (>66),￼ Average (34 - 66), and Few (<34) groups and then to look at days of stay for each of those groups.
+A 'Case When' statement allowed me to group the number of lab procedures into Many (>66),￼ Average (33 - 66), and Few (<33) groups and then to look at days of stay for each of those groups.
 <br>
 <img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=300/>
 <br>
 
 <br>***Up for Metformin***<br>
 I was able to create a list of patient numbers that have a race of African American or a result of "Up" for Metformin by joining the Health and Demographics tables.
-<br>￼<br>
+<br>
 <img src="images/Code African American or Up for Metformin.png?raw=true" height=200/>
 
 <br>***Hospital stays less than average stay length***<br>
