@@ -17,11 +17,12 @@ To answer the question of which specialities are performing the most procedures,
 <br>***Lab procedures by race***<br>
 I found out the the number of lab procedures doesn't not vary significantly by race. I grouped by race and ordered by the count of the average number of lab procedures.
 <br>
-<img src="images/Code Lab procs by race.png?raw=true" height=200/>
+<img src="images/Code Lab procs by race.png?raw=true" height=300/>
 
 <br>***Average length of stay related to number of lab procedures***
-A Case When statement allowed me to group the number of lab procedures into Many (>66),￼
-<img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=200/>
+A Case When statement allowed me to group the number of lab procedures into Many (>66),￼ Average (34 - 66), and Few (<34) groups and then to look at days of stay for each of those groups.
+<br>
+<img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=300/>
 <br>
 
 <br>***Up for Metformin***<br>
