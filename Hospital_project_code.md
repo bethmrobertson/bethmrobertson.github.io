@@ -36,6 +36,6 @@ Using a CTE, I was able to find patients with a shorter than average length of s
 <img src="images/Code Less than avg length of stay.png?raw=true" height=300/>￼
 
 <br>***Readmission Summary***<br>
-'Concat' and 'rpad' allowed me to create a list of readmitted patients sorted by the number of medications and lab procedures they received while they were in the hospital. 
+'Concat_WS' allowed me to create a list of readmitted patients sorted by the number of medications and lab procedures they received while they were in the hospital. 
 <br> 
 <img src="images/Code Patients with most medications summary.png?raw=true" height=300/>
