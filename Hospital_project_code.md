@@ -21,17 +21,13 @@ I found out the the number of lab procedures doesn't not vary significantly by r
 
 <br>***Average length of stay related to number of lab procedures***<br>
 <br>￼
-<img src="images/Code Staytime vs number of lab procedures.png?raw=true" height=100/>
+<img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=100/>
 <br>
-
 
 <br>***Up for Metformin***<br>
 
-You just got an email from a co-worker in research. They want to do a medical test with anyone who is African American or had an "Up" for metformin. 
-
-This table shows a partial result of African American patients and those with an “Up” for metformin. There are 20,059 results.
 <br>￼<br>
-<img src="images/Results partial Af Am or Up for metformin.png?raw=true" height=200/>
+<img src="images/Code African American or Up for Metformin.png?raw=true" height=200/>
 
 <br>***Hospital stays less than average stay length***<br>
 The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average length of time in the hospital, 4.4 days.
