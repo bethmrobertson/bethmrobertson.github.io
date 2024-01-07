@@ -7,7 +7,7 @@ This page shows the code I used for the different steps of this project.
 <br>
 I used a bar chart to show the number of patients who stayed a certain number of days to understand if most patients in the study stayed fewer than 7 days in the hospital.
 <br>
-<img src="images/Code Days of stay.png?raw=true" height=200/>￼
+<img src="images/Code Days of stay.png?raw=true" height=300/>￼
 
 <br> ***Specialities*** <br>
 There is a brand new Hospital Director who wants to know **which medical specialties are doing the most procedures**, on average. 
