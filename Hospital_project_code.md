@@ -10,11 +10,8 @@ I used a bar chart to show the number of patients who stayed a certain number of
 <img src="images/Code Days of stay.png?raw=true" height=300/>￼
 
 <br> ***Specialities*** <br>
-There is a brand new Hospital Director who wants to know **which medical specialties are doing the most procedures**, on average. 
+To answer the question of which specialities are performing the most procedures, on average, I created a table. I limited the data to show an average of 2.5 procedures with at least 50 patients. 
 
-There are 73 medical specialties practiced at the hospitals in the study.
-
-This table show the specialties with an average of more than 2.5 procedures and at least 50 patients.
 <img src="images/Specialties w most procedures.png?raw=true" height=200/>￼
 <br>
 **Action Item:** The possible **duplication of specialties** (Radiologist / Radiology) indicates that the data needs to be thoroughly reviewed with the aim of establishing the correct way to enter this specialty into the system. The new procedure will need to be developed with those who know whether these two specialties should be combined and communicated to the people who are entering the data. 
