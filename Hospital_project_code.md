@@ -10,7 +10,7 @@ I used a bar chart to show the number of patients who stayed a certain number of
 <img src="images/Code Days of stay.png?raw=true" height=300/>￼
 
 <br> ***Specialities*** <br>
-To answer the question of which specialities are performing the most procedures, on average, I created a table. I limited the data to show an average of 2.5 procedures with at least 50 patients. 
+To answer the question of which specialities are performing the most procedures, on average, I created a table. I limited the data to show an average of 2.5 procedures per visit per patient, with at least 50 patients. 
 
 <img src="images/Code Specialties with largest avg number of procedures.png?raw=true" height=300/>￼
 <br>
