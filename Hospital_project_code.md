@@ -31,11 +31,9 @@ I was able to create a list of patient numbers that have a race of African Ameri
 <img src="images/Code African American or Up for Metformin.png?raw=true" height=300/>
 
 <br>***Hospital stays less than average stay length***<br>
-
-Partial result:<br><br>
+Using a CTE, I was able to find patients with a shorter than average length of stay who were admitted with an emergency admission.
+<br>
 <img src="images/Code Less than avg length of stay.png?raw=true" height=300/>￼
-
-**Action Item: investigate the story behind these successful hospital stays and find the causes of the stronger than average outcome.
 
 <br>***Readmission Summary***<br>
 Our boss has asked us to write a summary for the top 50 medication patients, break any ties with the number of lab procedures  (highest at the top). But they want a written summary of the format like this:
