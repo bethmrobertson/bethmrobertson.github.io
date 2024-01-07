@@ -19,13 +19,13 @@ I found out the the number of lab procedures doesn't not vary significantly by r
 <br>
 <img src="images/Code Lab procs by race.png?raw=true" height=200/>
 
-<br>***Average length of stay related to number of lab procedures***<br>
+<br>***Average length of stay related to number of lab procedures***
 <br>￼
-<img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=100/>
+<img src="images/Code Stay time vs number of lab procedures.png?raw=true" height=200/>
 <br>
 
 <br>***Up for Metformin***<br>
-
+I was able to create a list of patient numbers that have a race of African American or a result of "Up" for Metformin by joining the Health and Demographics tables.
 <br>￼<br>
 <img src="images/Code African American or Up for Metformin.png?raw=true" height=200/>
 
