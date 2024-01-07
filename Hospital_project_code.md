@@ -36,9 +36,6 @@ Using a CTE, I was able to find patients with a shorter than average length of s
 <img src="images/Code Less than avg length of stay.png?raw=true" height=300/>￼
 
 <br>***Readmission Summary***<br>
-Our boss has asked us to write a summary for the top 50 medication patients, break any ties with the number of lab procedures  (highest at the top). But they want a written summary of the format like this:
-"Patient 2383 was Caucasian and was readmitted. They had 21 medications and 32 lab procedures."
-
-Partial result:
+'Concat' and 'rpad' allowed me to create a list of readmitted patients sorted by the number of medications and lab procedures they received while they were in the hospital. 
 <br> 
-<img src="images/Results partial readmitted w num meds lab procs.png?raw=true" height=200/>
+<img src="images/Code Patients with most medications summary.png?raw=true" height=300/>
