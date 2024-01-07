@@ -28,13 +28,12 @@ A 'Case When' statement allowed me to group the number of lab procedures into Ma
 <br>***Up for Metformin***<br>
 I was able to create a list of patient numbers that have a race of African American or a result of "Up" for Metformin by joining the Health and Demographics tables.
 <br>
-<img src="images/Code African American or Up for Metformin.png?raw=true" height=200/>
+<img src="images/Code African American or Up for Metformin.png?raw=true" height=300/>
 
 <br>***Hospital stays less than average stay length***<br>
-The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients came into the hospital with an emergency (admission_type_id of 1) but stayed less than the average length of time in the hospital, 4.4 days.
 
 Partial result:<br><br>
-<img src="images/Results partial stays less than avg.png?raw=true" height=200/>￼
+<img src="images/Code Less than avg length of stay.png?raw=true" height=300/>￼
 
 **Action Item: investigate the story behind these successful hospital stays and find the causes of the stronger than average outcome.
 
