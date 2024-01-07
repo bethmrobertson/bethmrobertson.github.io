@@ -16,18 +16,14 @@ To answer the question of which specialities are performing the most procedures,
 <br>
 <br>***Lab procedures by race***<br>
 I found out the the number of lab procedures doesn't not vary significantly by race. I grouped by race and ordered by the count of the average number of lab procedures.
+<br>
 <img src="images/Code Lab procs by race.png?raw=true" height=200/>
 
 <br>***Average length of stay related to number of lab procedures***<br>
-Many = 66 or more lab procedures<br>
-Average = 33 to 66 lab procedures<br>
-Few = fewer than 33 lab procedures<br>
 <br>￼
-<img src="images/Results avg stay time vs lab procs.png?raw=true" height=100/>
+<img src="images/Code Staytime vs number of lab procedures.png?raw=true" height=100/>
 <br>
-There seems to be a **correlation between number of lab procedures and length of stay**. 
-<br>
-**Action Item:** **Which of these is causing the other?** More labs because of a longer stay? A longer stay because of the need for more labs?
+
 
 <br>***Up for Metformin***<br>
 
