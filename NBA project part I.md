@@ -1,4 +1,4 @@
-# Hospital Data Analysis Project using MySQL
+# NBA 2022-23 Season Project - Part I using Tableau
 
 **Project Description** <br>
 This analysis is from a dataset of 70,000 clinical database records used in a study conducted in 2014.
