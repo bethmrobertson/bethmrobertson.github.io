@@ -3,7 +3,7 @@
 **Project Description** <br>
 I used NBA data from basketball-reference.com to gather some insights into the 2022-23 season. This is Part I of my analysis. Part II is coming soon!
 
-<img src="images/Hospital Data Analysis Project banner.png?raw=true" height = 200/>
+<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
 
 **Project Summary and Action Items**
 - 82% of patients stay in the hospital fewer than 7 days.
