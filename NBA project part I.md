@@ -1,8 +1,7 @@
 # NBA 2022-23 Season Project - Part I using Tableau
 
 **Project Description** <br>
-This analysis is from a dataset of 70,000 clinical database records used in a study conducted in 2014.
-Several different department administrators at the hospital want insights into specific parts of the data. I used MySQL to access, clean, and analyze the data. This page contains the questions asked, the results of the queries, and the action items. If you want to see the code behind all of this, click [here](Hospital_project_code.md).
+I used NBA data from basketball-reference.com to gather some insights into the 2022-23 season. This is Part I of my analysis. Part II is coming soon!
 
 <img src="images/Hospital Data Analysis Project banner.png?raw=true" height = 200/>
 
