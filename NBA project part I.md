@@ -1,6 +1,8 @@
-# NBA 2022-23 Season Project - Part I using Tableau
+# NBA 2022-23 Season Project - Part I (using Tableau)
 
 **Project Description** <br>
+I have a friend who spends a lot of time with the NBA (by his own admission). So I was very interested to ‘nothing but net’ this NBA project and share it with him.
+
 I used NBA data from basketball-reference.com to gather some insights into the 2022-23 season. This is Part I of my analysis. Part II is coming soon!
 
 <img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
