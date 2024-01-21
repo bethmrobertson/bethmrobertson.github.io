@@ -10,7 +10,9 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 **Project Summary and Action Items**
 - 
 <br>
-
+- Joel Embiid was the player with the highest number of MVP votes. Why?
+- 
+<br>
 **Questions and Insights**
 <br>
 <br>
@@ -26,17 +28,12 @@ Yet, **Embiid was the 2022-23 MVP**. Why?
 <br>
 <img src="images/NBA Bubble avg ppg.png?raw=true" height=400/>￼
 
-<br> ***Specialities*** <br>
-There is a brand new Hospital Director who wants to know **which medical specialties are doing the most procedures**, on average. 
+<br> ***Team Total Points*** <br>
+The Scramento Kings scored the most points overall as a team in 2022-23. They made the playoffs but were knocked out by Golden State in the first round. The Kings also had the most players with 1,000 points or more. But, in the end, it matters in which games you score all those points! 
 
-There are 73 medical specialties practiced at the hospitals in the study.
-
-This table show the specialties with an average of more than 2.5 procedures and at least 50 patients.
-<img src="images/Specialties w most procedures.png?raw=true" height=200/>￼
+<img src="images/NBA team by season total points.png?raw=true" height=400/>￼
 <br>
-**Action Item:** The possible **duplication of specialties** (Radiologist / Radiology) indicates that the data needs to be thoroughly reviewed with the aim of establishing the correct way to enter this specialty into the system. The new procedure will need to be developed with those who know whether these two specialties should be combined and communicated to the people who are entering the data. 
-
-**Action item:** There are some patients who appear to have **multiple procedures performed by the same specialty**. Are there other questions that need to be asked about these patients, like: Were those procedures performed during the same hospital stay? During the same specialty encounter? Which patients are having many repeat procedures? This could potentially provide some insights into ways to better manage patient health and satisfaction, as well as reduce costs.
+<img src="images/NBA players with more than 1000 points.png?raw=true" height=400/>
 <br>
 <br>***Lab procedures by race***<br>
 The Chief of Nursing wants to know if the hospital seems to be **treating patients of different races differently**, specifically regarding the number of lab procedures done.
