@@ -8,22 +8,18 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 <img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
 
 **Project Summary and Action Items**
-- 82% of patients stay in the hospital fewer than 7 days.
-- Some patients are seeing the same specialty for multiple procedures over multiple encounters. These patients should be investigated to determine if there are ways to prevent multiple visits and thus lower costs. Options might include case worker followups, better initial diagnoses, and more clear post-procedure medication instructions.
-- Ensure all personnel are entering specialty information from a curated list.
-- 2280 patients have no race information listed while 1524 have 'other' listed as their race. Does the range of possibilities for race need to be expanded?
-- Ensure race information is collected upon admission.
-- The average number of lab procedures performed does not vary significantly by race.
-- There is a correlation between the number of lab procedures and the length of the hospital stay. Determine if one is causal of the other.
-- Investigate emergency admissions that stayed less than the average number of days to find possible improvements for the future.
+- 
 <br>
 
 **Questions and Insights**
 <br>
-***Number of Days*** <br>
-Our health care data analyst manager wants to know what the **distribution of time spent in the hospital** looks like.
+***Total Points, Assists, and Rebounds by Position*** <br>
+A Bubble plot allows us to see lots of information at once. I used total points and total assists as the X and Y axes, respectively. The size of the bubble represents rebounds and the color of the bubble show the player's position. Jayson Tatum had the most total points. He had more assists than Joel Embiid but Embiid had more rebounds (670 vs. 649).
+<br>
 
-A histogram is a way to show the number of occurrences using grouping. I used a histogram here, grouped by number of days in the hospital stay, to show the number of patients who stayed each number of days.
+<img src="images/Hospital bar chart days of stay.png?raw=true" height=200/>
+
+Yet, **Embiid was the 2022-23 MVP**. Why?
 
 We can see that 80,617 of the 98,066 **(82%) of patients stayed less than 7 days**.
 <br>
