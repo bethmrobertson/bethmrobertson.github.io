@@ -11,7 +11,9 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 - 
 <br>
 - Joel Embiid was the player with the highest number of MVP votes. Why?
-- 
+- The Sacramento Kings had the most overall points during the season. They made the playoffs but weren't the champs.
+- The Kings also were one of three teams that had players who scored more than 1,000 points in the season.
+- Point guards provide the most assists. But if you are listing leaders, you also have to include centers Jokic and Sabonis, who are assist machines.
 <br>
 **Questions and Insights**
 <br>
@@ -37,39 +39,19 @@ The Scramento Kings scored the most points overall as a team in 2022-23. They ma
 <br>
 
 <br>***Assists by Position***<br>
-Which positions provide the most assists? **Point guards** lead the way in that category.
+Which positions provide the most assists? **Point guards** lead the way in that category. But if you are listing leaders, you also have to include centers Jokic and Sabonis, who are assist machines.
 
 <img src="images/NBA assists by position.png?raw=true" height=500/>
+<br>
 
-<br>***Who shoots the most threes?***<br>
+***Who shoots the most threes?***
+<br>
 If you want to know which positions shoot the most three pointers for each team, here's a table for you. This would make an excellent pocket card to keep nearby for every game!
 <br>￼
-<img src="images/Results avg stay time vs lab procs.png?raw=true" height=100/>
+<img src="images/NBA table plot 3 pt pct.png?raw=true" height=500/>
 <br>
-There seems to be a **correlation between number of lab procedures and length of stay**. 
-<br>
-**Action Item:** **Which of these is causing the other?** More labs because of a longer stay? A longer stay because of the need for more labs?
+Watch out for the Brooklyn center () and the Memphis shooting guards. They are the most accurate positions in the league.
 
-<br>***Up for Metformin***<br>
+Stay tuned to this channel for the second part of my NBA study, in which I try to provide some answers to specific questions from the biggest NBA fan I know! Let me know what else you would like to know! 
 
-You just got an email from a co-worker in research. They want to do a medical test with anyone who is African American or had an "Up" for metformin. 
-
-This table shows a partial result of African American patients and those with an “Up” for metformin. There are 20,059 results.
-<br>￼<br>
-<img src="images/Results partial Af Am or Up for metformin.png?raw=true" height=200/>
-
-<br>***Hospital stays less than average stay length***<br>
-The Hospital Administrator wants to highlight some of the biggest success stories of the hospital. They are looking for opportunities when patients **came into the hospital with an emergency** (admission_type_id of 1) **but stayed less than the average length of time in the hospital, 4.4 days**.
-
-Partial result:<br><br>
-<img src="images/Results partial stays less than avg.png?raw=true" height=200/>￼
-
-**Action Item: investigate the story behind these successful hospital stays and find the causes of the stronger than average outcome.
-
-<br>***Readmission Summary***<br>
-Our boss has asked us to write a summary for the top 50 medication patients, break any ties with the number of lab procedures  (highest at the top). But they want a written summary of the format like this:
-"Patient 2383 was Caucasian and was readmitted. They had 21 medications and 32 lab procedures."
-
-Partial result:
-<br> 
-<img src="images/Results partial readmitted w num meds lab procs.png?raw=true" height=200/>
+I am looking for a full-time data analyst position, so if you are in need, please contact me. Thanks for reading!
