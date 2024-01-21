@@ -4,7 +4,7 @@
 
 ## My Projects
 
-### [NBA 2022-23 Analysis](/NBA project part I)
+### [NBA 2022-23 Analysis (Tableau)](/NBA project part I)
 <img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true"/> <br>
 #### Project description 
 I used 2022-23 data from basketball-reference.com to take a look at some of the NBA leaders' stats.
