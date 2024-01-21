@@ -35,20 +35,14 @@ The Scramento Kings scored the most points overall as a team in 2022-23. They ma
 <br>
 <img src="images/NBA players with more than 1000 pts.png?raw=true" height=500/>
 <br>
+
 <br>***Assists by Position***<br>
-Which positions provide the most assists? Point guards lead the way in that category.
+Which positions provide the most assists? **Point guards** lead the way in that category.
 
-<img src="images/assists by position.png?raw=true" height=500/>
+<img src="images/NBA assists by position.png?raw=true" height=500/>
 
-According to our analysis, **the average number of lab procedures does not vary significantly by race.**
-<br>
-<br>
-**Action Item:** Figure out why there are so many **patient records with no race or “other”** recorded. Do some hospitals in the study not collect race data? Do some hospitals need to have additional race categories to choose from? What about people who are mixed race?
-
-<br>***Average length of stay related to number of lab procedures***<br>
-Many = 66 or more lab procedures<br>
-Average = 33 to 66 lab procedures<br>
-Few = fewer than 33 lab procedures<br>
+<br>***Who shoots the most threes?***<br>
+If you want to know which positions shoot the most three pointers for each team, here's a table for you. This would make an excellent pocket card to keep nearby for every game!
 <br>￼
 <img src="images/Results avg stay time vs lab procs.png?raw=true" height=100/>
 <br>
