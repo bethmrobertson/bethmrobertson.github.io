@@ -50,8 +50,10 @@ If you want to know which positions shoot the most three pointers for each team,
 <br>￼
 <img src="images/NBA table plot 3 pt pct.png?raw=true" height=500/>
 <br>
-Watch out for the Brooklyn center () and the Memphis shooting guards. They are the most accurate positions in the league.
+In 2022-23, teams had to watch out for Boston center, Al Horford (44.6%), and Memphis shooting guard, Luke Kennard (49.4%). They were the most accurate 3 point shooters in the league. In 2023-2024 so far, the Suns Grayson Allen is leading the way with 48.1% accuracy.
 
-Stay tuned to this channel for the second part of my NBA study, in which I try to provide some answers to specific questions from the biggest NBA fan I know! Let me know what else you would like to know! 
+Stay tuned to this channel for the second part of my NBA study, in which I try to provide some answers to specific questions from the biggest NBA fan I know! Let me know what else **you** would like to know! 
 
-I am looking for a full-time data analyst position, so if you are in need, please contact me. Thanks for reading!
+I am looking for a full-time data analyst position, so if you know of an opportunity, please contact me. 
+
+Thanks for reading!
