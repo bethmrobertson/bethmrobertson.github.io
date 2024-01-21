@@ -13,17 +13,18 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 
 **Questions and Insights**
 <br>
+<br>
 ***Total Points, Assists, and Rebounds by Position*** <br>
 A Bubble plot allows us to see lots of information at once. I used total points and total assists as the X and Y axes, respectively. The size of the bubble represents rebounds and the color of the bubble show the player's position. Jayson Tatum had the most total points. He had more assists than Joel Embiid but Embiid had more rebounds (670 vs. 649).
 <br>
 
-<img src="images/Hospital bar chart days of stay.png?raw=true" height=200/>
+<img src="images/NBA bubble pts assists rebounds.png?raw=true" height=200/>
 
 Yet, **Embiid was the 2022-23 MVP**. Why?
 
-We can see that 80,617 of the 98,066 **(82%) of patients stayed less than 7 days**.
+**Embiid had the most average points per game** and had an excellent playoff run.
 <br>
-<img src="images/Hospital bar chart days of stay.png?raw=true" height=200/>￼
+<img src="images/NBA Bubble avg ppg.png?raw=true" height=200/>￼
 
 Each * = 200 patients
 
