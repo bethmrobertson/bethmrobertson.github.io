@@ -5,11 +5,10 @@
 ## My Projects
 
 ### [NBA 2022-23 Analysis)](/NBA project part I)
-<img src="images/Hospital Data Analysis Project banner.png?raw=true"/> <br>
+<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true"/> <br>
 #### Project description 
-This analysis is from a dataset used in a study conducted in 2014 of 70,000 clinical database records.
+I used 2022-23 data from basketball-reference.com to take a look at some of the NBA leaders' stats.
 
-Several different department administrators at the hospital want insights into specific parts of the data. I used MySQL to access, clean, and analyze the data.
 ### [Hospital Data Analysis (SQL)](/Hospital_Data_Analysis)
 <img src="images/Hospital Data Analysis Project banner.png?raw=true"/> <br>
 #### Project description 
