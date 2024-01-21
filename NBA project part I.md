@@ -5,7 +5,7 @@ I have a friend who spends a lot of time with the NBA (by his own admission). So
 
 I used NBA data from basketball-reference.com to gather some insights into the 2022-23 season. This is Part I of my analysis. Part II is coming soon!
 
-<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 400/>
+<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
 
 **Project Summary and Action Items**
 - 
@@ -24,7 +24,7 @@ Yet, **Embiid was the 2022-23 MVP**. Why?
 
 **Embiid had the most average points per game** and had an excellent playoff run.
 <br>
-<img src="images/NBA Bubble avg ppg.png?raw=true" height=200/>￼
+<img src="images/NBA Bubble avg ppg.png?raw=true" height=400/>￼
 
 Each * = 200 patients
 
