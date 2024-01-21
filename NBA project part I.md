@@ -31,9 +31,9 @@ Yet, **Embiid was the 2022-23 MVP**. Why?
 <br> ***Team Total Points*** <br>
 The Scramento Kings scored the most points overall as a team in 2022-23. They made the playoffs but were knocked out by Golden State in the first round. The Kings also had the most players with 1,000 points or more. But, in the end, it matters in which games you score all those points! 
 
-<img src="images/NBA team by season total points.png?raw=true" height=400/>￼
+<img src="images/NBA team by season total points.png?raw=true" height=500/>￼
 <br>
-<img src="images/NBA players with more than 1000 points.png?raw=true" height=400/>
+<img src="images/NBA players with more than 1000 pts.png?raw=true" height=400/>
 <br>
 <br>***Lab procedures by race***<br>
 The Chief of Nursing wants to know if the hospital seems to be **treating patients of different races differently**, specifically regarding the number of lab procedures done.
