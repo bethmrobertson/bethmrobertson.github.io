@@ -5,7 +5,7 @@ I have a friend who spends a lot of time with the NBA (by his own admission). So
 
 I used NBA data from basketball-reference.com to gather some insights into the 2022-23 season. This is Part I of my analysis. Part II is coming soon!
 
-<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
+<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 400/>
 
 **Project Summary and Action Items**
 - 
@@ -18,7 +18,7 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 A Bubble plot allows us to see lots of information at once. I used total points and total assists as the X and Y axes, respectively. The size of the bubble represents rebounds and the color of the bubble show the player's position. Jayson Tatum had the most total points. He had more assists than Joel Embiid but Embiid had more rebounds (670 vs. 649).
 <br>
 
-<img src="images/NBA bubble pts assists rebounds.png?raw=true" height=200/>
+<img src="images/NBA bubble pts assists rebounds.png?raw=true" height=400/>
 
 Yet, **Embiid was the 2022-23 MVP**. Why?
 
