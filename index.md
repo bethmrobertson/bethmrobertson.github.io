@@ -9,6 +9,7 @@
 #### Project description 
 I used 2022-23 data from basketball-reference.com to take a look at some of the NBA leaders' stats.
 
+___
 ### [Hospital Data Analysis (SQL)](/Hospital_Data_Analysis)
 <img src="images/Hospital Data Analysis Project banner.png?raw=true"/> <br>
 #### Project description 
