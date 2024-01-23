@@ -22,13 +22,13 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 A Bubble plot allows us to see lots of information at once. I used total points and total assists as the X and Y axes, respectively. The size of the bubble represents rebounds and the color of the bubble show the player's position. **Jayson Tatum had the most total points.** He had more assists than Joel Embiid but Embiid had more rebounds (670 vs. 649).
 <br>
 
-<img src="images/NBA bubble pts assists rebounds.png?raw=true" height=400/>
+<img src="images/NBA bubble pts assists rebounds.png?raw=true" height=500/>
 
 Yet, **Embiid was the 2022-23 MVP**. Why?
 
 **Embiid had the most average points per game** and had an excellent playoff run in addition to his stellar regular season. He was the runaway choice for MVP with 73 first-place votes to Nikola Jokic's 15 first place votes. The graph below shows average points per game instead of total. 
 <br>
-<img src="images/NBA Bubble avg ppg.png?raw=true" height=400/>￼
+<img src="images/NBA Bubble avg ppg.png?raw=true" height=500/>￼
 
 <br> ***Team Total Points*** <br>
 The Scramento Kings scored the most points overall as a team in 2022-23. They made the playoffs but were knocked out by Golden State in the first round. The Kings also had five players with 1,000 points or more. Only two other teams had that same number. But, in the end, it matters in which games you score all those points! 
