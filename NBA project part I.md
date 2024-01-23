@@ -8,7 +8,6 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 <img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
 
 **Project Summary and Action Items**
-- 
 <br>
 - Joel Embiid was the player with the highest number of MVP votes. Why?
 - The Sacramento Kings had the most overall points during the season. They made the playoffs but weren't the champs.
