@@ -10,17 +10,21 @@ As previously mentioned, I have a friend who spends a lot of time with the NBA. 
 - What is the relationship between the number of 2 point shots attempted and made and 3 point shots attempted and made?
 - Does home court advantage still exist?
 <br>
+**The Data**
+<br>
+To answer the first question I downloaded all of the game data from 1946-47 to 2022-23 on basketball-reference.com, imported it into Excel, sorted the data by season, and found the sum of the number of **two point shots attempted** and **two point shots made** per season. From 1979 onward, I did the same thing for **three point shots**. Those are the four lines you will see in the graph.
+<br>
+For the second question, I downloaded the data for each game for one season every decade from 1972-73 to 2022-23. I then calculated whether the game was a home win or an away win, and summed those calculations. Out of 100% of the games each season, I looked at the **percentage of home vs away wins**. Once I looked at the graph for each decade, I noticed that there seemed to be a **decline in the percentage of home games won since 2012**. So I download the data for each season from 2012-13 to 2022-23 and calculated home and away wins and created the same percentage graph.
 <br>
 **Insights**
 <br>
-<br>
-***Total Points, Assists, and Rebounds by Position*** <br>
-A Bubble plot allows us to see lots of information at once. I used total points and total assists as the X and Y axes, respectively. The size of the bubble represents rebounds and the color of the bubble show the player's position. **Jayson Tatum had the most total points.** He had more assists than Joel Embiid but Embiid had more rebounds (670 vs. 649).
+***2 pt vs 3 pt shots attempted and made*** <br>
+
 <br>
 
 <img src="images/NBA bubble pts assists rebounds.png?raw=true" height=500/>
 
-Yet, **Embiid was the 2022-23 MVP**. Why?
+Two point shots attempted are still much greater than three point shots attempted by a large margin. But the slope of the two point shots attempted is decreasing and the slope of the three point shots attempted is increasing. I analyzed the slopes of those lines and projected when they would cross, given that nothing changes. The answer is that the number of three point shots attempted will be greater than the number of two point shots attempted in 2042, 64 years after the implementation of the three point shot.
 
 **Embiid had the most average points per game** and had an excellent playoff run in addition to his stellar regular season. He was the runaway choice for MVP with 73 first-place votes to Nikola Jokic's 15 first place votes. The graph below shows average points per game instead of total. 
 <br>
