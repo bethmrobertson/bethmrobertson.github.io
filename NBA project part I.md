@@ -28,7 +28,7 @@ Yet, **Embiid was the 2022-23 MVP**. Why?
 
 **Embiid had the most average points per game** and had an excellent playoff run in addition to his stellar regular season. He was the runaway choice for MVP with 73 first-place votes to Nikola Jokic's 15 first place votes. The graph below shows average points per game instead of total. 
 <br>
-<img src="images/NBA Bubble avg ppg.png?raw=true" height=500/>￼
+<img src="images/NBA Bubble avg ppg.pdf?raw=true" height=500/>￼
 
 <br> ***Team Total Points*** <br>
 The Scramento Kings scored the most points overall as a team in 2022-23. They made the playoffs but were knocked out by Golden State in the first round. The Kings also had five players with 1,000 points or more. Only two other teams had that same number. But, in the end, it matters in which games you score all those points! 
