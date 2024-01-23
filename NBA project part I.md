@@ -11,7 +11,7 @@ I used NBA data from basketball-reference.com to gather some insights into the 2
 
 - Joel Embiid was the player with the highest number of MVP votes. Why?
 - The Sacramento Kings had the most overall points during the season. They made the playoffs but weren't the champs.
-- The Kings also were one of three teams that had players who scored more than 1,000 points in the season.
+- The Kings also were one of three teams that had five players who scored more than 1,000 points in the season.
 - Point guards provide the most assists. But if you are listing leaders, you also have to include centers Jokic and Sabonis, who are assist machines.
 <br>
 <br>
@@ -31,7 +31,7 @@ Yet, **Embiid was the 2022-23 MVP**. Why?
 <img src="images/NBA Bubble avg ppg.png?raw=true" height=400/>￼
 
 <br> ***Team Total Points*** <br>
-The Scramento Kings scored the most points overall as a team in 2022-23. They made the playoffs but were knocked out by Golden State in the first round. The Kings also had the most players with 1,000 points or more. But, in the end, it matters in which games you score all those points! 
+The Scramento Kings scored the most points overall as a team in 2022-23. They made the playoffs but were knocked out by Golden State in the first round. The Kings also had five players with 1,000 points or more. Only two other teams had that same number. But, in the end, it matters in which games you score all those points! 
 
 <img src="images/NBA team by season total points.png?raw=true" height=500/>￼
 <br>
