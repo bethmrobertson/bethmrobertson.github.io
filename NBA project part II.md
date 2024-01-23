@@ -1,21 +1,17 @@
-# NBA 2022-23 Season Project - Part I (using Tableau)
+# NBA Project - Part II (using Excel)
 
 **Project Description** <br>
-I have a friend who spends a lot of time with the NBA (by his own admission). So I was very interested to ‘nothing but net’ this NBA project and share it with him.
+As previously mentioned, I have a friend who spends a lot of time with the NBA. When I started the NBA project for DataCareerJumpstart, I asked my friend if he had any questions about basketball that he would like answered. He asked me two questions that I will answer in this project. I presented these answers to him when I last saw him and he said that he felt 'seen'. Mission accomplished.
 
-I used NBA data from basketball-reference.com to gather some insights into the 2022-23 season. This is Part I of my analysis. Part II is coming soon!
+<img src="images/Black & White Modern Basketball LinkedIn Banner 2.png?raw=true" height = 200/>
 
-<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
+**The Two Questions**
 
-**Project Summary**
-
-- Joel Embiid was the player with the highest number of MVP votes. Why?
-- The Sacramento Kings had the most overall points during the season. They made the playoffs but weren't the champs.
-- The Kings also were one of three teams that had five players who scored more than 1,000 points in the season.
-- Point guards provide the most assists. But if you are listing leaders, you also have to include centers Jokic and Sabonis, who are assist machines.
+- What is the relationship between the number of 2 point shots attempted and made and 3 point shots attempted and made?
+- Does home court advantage still exist?
 <br>
 <br>
-**Questions and Insights**
+**Insights**
 <br>
 <br>
 ***Total Points, Assists, and Rebounds by Position*** <br>
