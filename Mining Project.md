@@ -21,20 +21,19 @@ Here are all the columns in the dataset:
 ![Pasted Graphic 1](https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/03b60e72-ede5-4f80-8b94-ebb825221605)
 <br>
 
-<img src="images/NBA bubble pts assists rebounds.png?raw=true" height=500/>
+I used the **.shape property** and the **.describe() method** to learn more about the dataset. Then I started reading about the actual process to understand more about where the data comes from and the business goal. (See references below.) 
 
-Yet, **Embiid was the 2022-23 MVP**. Why?
+Some of the measurements in the dataset are taken every twenty seconds and some every hour, which, to me, makes it difficult to really understand what is happening. **% Iron Concentrate and % Silica Concentrate are actually values calculated by an on-site lab** and later inserted into the data. They are not calculated during the process. 
+<br>￼
 
-**Embiid had the most average points per game** and had an excellent playoff run in addition to his stellar regular season. He was the runaway choice for MVP with 73 first-place votes to Nikola Jokic's 15 first place votes. The graph below shows average points per game instead of total. 
-<br>
-<img src="images/NBA Bubble avg ppg.png?raw=true" height=500/>￼
+<br> ***More Research*** <br>
+Once I read more information about the process, I became interested in what this dataset was originally intended to do. It turns out that what the plant hopes to do is actually predict the % Iron Concentrate and the % Silica Concentrate ahead of time instead of waiting for measurements from the lab. According to a ‘mineral processing engineer and amateur data scientist’ in the comments section for this dataset, here is a description of these two variables:
 
-<br> ***Team Total Points*** <br>
-The Scramento Kings scored the most points overall as a team in 2022-23. They made the playoffs but were knocked out by Golden State in the first round. The Kings also had five players with 1,000 points or more. Only two other teams had that same number. But, in the end, it matters in which games you score all those points! 
-
-<img src="images/NBA team by season total points.png?raw=true" height=500/>￼
-<br>
-<img src="images/NBA players with more than 1000 pts.png?raw=true" height=500/>
+      % Iron Concentrate, % Silica Concentrate = These are our product. Concentrate goes to the blast furnaces after
+      enrichment. 	Metallurgists demand certain concentration grades from us for smelting. If the demanded value is not
+      achieved, the quality of the metallurgical process decreases. Our main goal is to achieve these values in concentrate.       Generally, these values for iron reverse cationic flotation are:
+                Fe = 67% 68%
+                SiO2 = 1.6% -1.7%
 <br>
 
 <br>***Assists by Position***<br>
@@ -56,3 +55,6 @@ Stay tuned to this channel for the second part of my NBA study, in which I try t
 I am looking for a full-time data analyst position, so if you know of an opportunity, please contact me. 
 
 Thanks for reading!
+Example of a footnote[^1] within text.
+[^1]: Description of footnote text
+[How-To Geek](http://www.howtogeek.com)
