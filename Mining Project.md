@@ -1,11 +1,9 @@
 # Mining Project (using Python)
 
 **Project Description** <br>
-I have a friend who spends a lot of time with the NBA (by his own admission). So I was very interested to ‘nothing but net’ this NBA project and share it with him.
+For this project, I was assigned the role of a data analyst for a mining company. The company wants some information about their flotation process for beneficiation (cleaning and separation) of the iron ore. At the end of the process, they want to have iron ore that is of the quality that it can be smelted, and a small amount of silica concentrate, which is the undesired mineral in this process.
 
-I used NBA data from basketball-reference.com to gather some insights into the 2022-23 season. This is Part I of my analysis. Part II is coming soon!
-
-<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true" height = 200/>
+<img src="images/ext-froth-flotation.png.jpeg?raw=true" height = 200/>
 
 **Project Summary**
 
