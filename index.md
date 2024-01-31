@@ -4,7 +4,7 @@
 
 ## My Projects
 
-### [Analysis of Mining Data)](/Mining Project)
+### [Analysis of Mining Data (Python)](/Mining Project)
 <img src="images/ext-froth-flotation.png.jpeg?raw=true"/> <br>
 #### Project description 
 For this project, I was assigned the role of a data analyst for a mining company. The company wants some information about their flotation process for beneficiation (cleaning and separation) of the iron ore.
