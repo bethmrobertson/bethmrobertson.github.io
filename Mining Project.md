@@ -46,9 +46,13 @@ Therefore, according to our ‘expert’, this mine is actually not producing in
 <br>￼
 <br>***Correlation***<br>
 
-I used the correlation method, **.corr()**, to see what the correlation was between the variables for a date given by the plant manager. There was very little correlation between any of the variables. (Click on the table to make it bigger.)
+I used the correlation method, **.corr()**, to see what the correlation coefficient was between the variables for a date given by the plant manager. There was very little correlation between any of the variables. 
 
 <img width="400" alt="CORRELATION TABLE" src="https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/5595afc1-1672-4aec-a1de-b7752665c797">
+
+Here is how you interpret correlation coefficients.
+<img width="534" alt="image" src="https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/1b8562f8-643e-498e-ad27-099b6fd4cfac">
+
 
 Also, according to our 'expert', there are actually more data that are needed to be able to use machine learning to predict the % concentrates at the end, including:
 * Feeding tons
