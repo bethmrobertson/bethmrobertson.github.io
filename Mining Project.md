@@ -11,8 +11,7 @@ For this project, I was assigned the role of a data analyst for a mining company
 -  Iron Concentrate and Silica Concentrate are the products of the phyical process.
 -  % Iron Concentrate and % Silica Concentrate are actually values calculated by an on-site lab and later inserted into the data. They are not calculated during the process.
 -  None of the measures captured were statistically significant with the % Iron Concentrate nor the % Silica Concentrate.
-<br>
-<br>
+
 ***The Data and the Process***
 <br>
 I used Pandas and Python to read the data from a .csv file. This dataset used the European format for decimal numbers, having a comma where, in the U.S., we would expect to see a decimal point, so I added decimal = ‘,’ to the read statement. The date had to be changed to a datetime value using pd.to_datetime, because, by default, Pandas reads dates as a string unless you tell it to parse the dates and give it a format in your read statement. 
