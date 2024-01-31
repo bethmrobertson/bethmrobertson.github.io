@@ -27,7 +27,7 @@ Some of the measurements in the dataset are taken every twenty seconds and some 
 <br>￼
 
 <br> ***More Research*** <br>
-Once I read more information about the process, I became interested in what this dataset was originally intended to do. It turns out that what the plant hopes to do is actually predict the % Iron Concentrate and the % Silica Concentrate ahead of time instead of waiting for measurements from the lab. According to a ‘mineral processing engineer and amateur data scientist’ in the comments section for this dataset, here is a description of these two variables:
+Once I read more information about the process, I became interested in what this dataset was originally intended to do. It turns out that what the plant hopes to do is actually predict the % Iron Concentrate and the % Silica Concentrate ahead of time instead of waiting for measurements from the lab. According to a ‘mineral processing engineer and amateur data scientist’ in the comments section for this dataset, here is a description of these two variables[^1]:
 
 >% Iron Concentrate, % Silica Concentrate = These are our product. Concentrate goes to the blast furnaces after enrichment. Metallurgists demand certain concentration grades from us for smelting. If the demanded value is not achieved, the quality of the metallurgical process decreases. Our main goal is to achieve these values in concentrate. Generally, these values for iron reverse cationic flotation are:
                 Fe = 67% 68%
@@ -70,6 +70,8 @@ Thanks for reading!
 <br>
 ***References*** 
 [Froth Flotation and Its Application to Concentration of Low Grade Iron Ores](https://core.ac.uk/download/pdf/297714789.pdf)
-Example of a footnote[^1] within text.
-[^1]: Description of footnote text
-[How-To Geek](http://www.howtogeek.com)
+<br>
+[An Overview of the Beneficiation of Iron Ores via Reverse Cationic Flotation](https://www.sciencedirect.com/science/article/abs/pii/S0301751614000155)
+
+[^1]: [Discussion of the original dataset on Kaggle](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process/discussion/182482)
+
