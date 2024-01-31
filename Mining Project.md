@@ -15,9 +15,11 @@ For this project, I was assigned the role of a data analyst for a mining company
 <br>
 **The Data and the Process**
 <br>
-<br>
-***Total Points, Assists, and Rebounds by Position*** <br>
-A Bubble plot allows us to see lots of information at once. I used total points and total assists as the X and Y axes, respectively. The size of the bubble represents rebounds and the color of the bubble show the player's position. **Jayson Tatum had the most total points.** He had more assists than Joel Embiid but Embiid had more rebounds (670 vs. 649).
+I used Pandas and Python to read the data from a .csv file. This dataset used the European format for decimal numbers, having a comma where in the U.S. we would expect to see a decimal point, so I added, decimal = ‘,’ to the read statement. The date had to be changed to a datetime value using pd.to_datetime, because, by default, Pandas reads dates as a string unless you tell it to parse the dates and give it a  format in your read statement. 
+
+Here are all the columns in the dataset:
+
+![Pasted Graphic 1](https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/03b60e72-ede5-4f80-8b94-ebb825221605)
 <br>
 
 <img src="images/NBA bubble pts assists rebounds.png?raw=true" height=500/>
