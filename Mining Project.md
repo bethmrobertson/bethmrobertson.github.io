@@ -7,13 +7,13 @@ For this project, I was assigned the role of a data analyst for a mining company
 
 **Project Summary**
 
-- Joel Embiid was the player with the highest number of MVP votes. Why?
-- The Sacramento Kings had the most overall points during the season. They made the playoffs but weren't the champs.
-- The Kings also were one of three teams that had five players who scored more than 1,000 points in the season.
-- Point guards provide the most assists. But if you are listing leaders, you also have to include centers Jokic and Sabonis, who are assist machines.
+- There are 24 parts of this continuous process that are monitored. Some are monitored every 20 seconds and some are monitored every hour.
+-  Iron Concentrate and Silica Concentrate are the products of the phyical process.
+-  % Iron Concentrate and % Silica Concentrate are actually values calculated by an on-site lab and later inserted into the data. They are not calculated during the process.
+-  None of the measures captured were statistically significant with the % Iron Concentrate nor the % Silica Concentrate.
 <br>
 <br>
-**Questions and Insights**
+**The Data and the Process**
 <br>
 <br>
 ***Total Points, Assists, and Rebounds by Position*** <br>
