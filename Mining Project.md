@@ -14,7 +14,7 @@ For this project, I was assigned the role of a data analyst for a mining company
 <br>
 **The Data and the Process**
 <br>
-I used Pandas and Python to read the data from a .csv file. This dataset used the European format for decimal numbers, having a comma where in the U.S. we would expect to see a decimal point, so I added, decimal = ‘,’ to the read statement. The date had to be changed to a datetime value using pd.to_datetime, because, by default, Pandas reads dates as a string unless you tell it to parse the dates and give it a  format in your read statement. 
+I used Pandas and Python to read the data from a .csv file. This dataset used the European format for decimal numbers, having a comma where in the U.S. we would expect to see a decimal point, so I added, decimal = ‘,’ to the read statement. The date had to be changed to a datetime value using pd.to_datetime, because, by default, Pandas reads dates as a string unless you tell it to parse the dates and give it a format in your read statement. 
 
 Here are all the columns in the dataset:
 
@@ -29,15 +29,16 @@ Some of the measurements in the dataset are taken every twenty seconds and some 
 <br> ***More Research*** <br>
 Once I read more information about the process, I became interested in what this dataset was originally intended to do. It turns out that what the plant hopes to do is actually predict the % Iron Concentrate and the % Silica Concentrate ahead of time instead of waiting for measurements from the lab. According to a ‘mineral processing engineer and amateur data scientist’ in the comments section for this dataset, here is a description of these two variables:
 
->% Iron Concentrate, % Silica Concentrate = These are our product. Concentrate goes to the blast furnaces after enrichment. Metallurgists demand certain concentration grades from us for smelting. If the demanded value is not achieved, the quality of the metallurgical process decreases. Our main goal is to achieve these values in concentrate. Generally,these values for iron reverse cationic flotation are:
+>% Iron Concentrate, % Silica Concentrate = These are our product. Concentrate goes to the blast furnaces after enrichment. Metallurgists demand certain concentration grades from us for smelting. If the demanded value is not achieved, the quality of the metallurgical process decreases. Our main goal is to achieve these values in concentrate. Generally, these values for iron reverse cationic flotation are:
                 Fe = 67% 68%
                 SiO2 = 1.6% -1.7%
 <br>
 
-<br>***Assists by Position***<br>
-Which positions provide the most assists? **Point guards** lead the way in that category. But if you are listing leaders, you also have to include centers Jokic and Sabonis, who are assist machines.
+<br>***Describe for % Iron Concentrate and % Silica Concentrate***<br>
+I ran .describe() so I could see just the values for the intended products, % Iron Concentrate and % Silica Concentrate.
 
-<img src="images/NBA assists by position.png?raw=true" height=500/>
+![65 05006799](https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/0b390194-d317-4be2-a62b-f4b871a824ed)
+
 <br>
 
 ***Who shoots the most threes?***
