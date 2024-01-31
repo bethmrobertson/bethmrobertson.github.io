@@ -1,11 +1,11 @@
 # Mining Project (using Python)
 
-**Project Description** <br>
+***Project Description*** <br>
 For this project, I was assigned the role of a data analyst for a mining company. The company wants some information about their flotation process for beneficiation (cleaning and separation) of the iron ore. At the end of the process, they want to have iron ore that is of the quality that it can be smelted, and a small amount of silica concentrate, which is the undesired mineral in this process.
 
 <img src="images/ext-froth-flotation.png.jpeg?raw=true" height = 200/>
 
-**Project Summary**
+***Project Summary***
 
 - There are 24 parts of this continuous process that are monitored. Some are monitored every 20 seconds and some are monitored every hour.
 -  Iron Concentrate and Silica Concentrate are the products of the phyical process.
@@ -13,7 +13,7 @@ For this project, I was assigned the role of a data analyst for a mining company
 -  None of the measures captured were statistically significant with the % Iron Concentrate nor the % Silica Concentrate.
 <br>
 <br>
-**The Data and the Process**
+***The Data and the Process***
 <br>
 I used Pandas and Python to read the data from a .csv file. This dataset used the European format for decimal numbers, having a comma where in the U.S. we would expect to see a decimal point, so I added, decimal = ‘,’ to the read statement. The date had to be changed to a datetime value using pd.to_datetime, because, by default, Pandas reads dates as a string unless you tell it to parse the dates and give it a format in your read statement. 
 
@@ -70,6 +70,7 @@ Thanks for reading!
 <br>
 <br>
 ***References*** 
+<br>
 [Froth Flotation and Its Application to Concentration of Low Grade Iron Ores](https://core.ac.uk/download/pdf/297714789.pdf)
 <br>
 [An Overview of the Beneficiation of Iron Ores via Reverse Cationic Flotation](https://www.sciencedirect.com/science/article/abs/pii/S0301751614000155)
