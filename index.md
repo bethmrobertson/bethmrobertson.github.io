@@ -4,6 +4,13 @@
 
 ## My Projects
 
+### [Analysis of Mining Data)](/Mining Project)
+<img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true"/> <br>
+#### Project description 
+
+
+___
+
 ### [NBA 2022-23 Analysis (Tableau)](/NBA project part I)
 <img src="images/Black & White Modern Basketball LinkedIn Banner.png?raw=true"/> <br>
 #### Project description 
