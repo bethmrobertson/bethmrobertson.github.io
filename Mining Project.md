@@ -68,6 +68,7 @@ Please get in touch with any questions you have. I am looking for a full-time da
 
 Thanks for reading!
 <br>
+<br>
 ***References*** 
 [Froth Flotation and Its Application to Concentration of Low Grade Iron Ores](https://core.ac.uk/download/pdf/297714789.pdf)
 <br>
