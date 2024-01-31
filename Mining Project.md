@@ -49,11 +49,27 @@ Therefore, according to our ‘expert’, this mine is actually not producing in
 
 I used the correlation method, **.corr()**, to see what the correlation was between the variables for a date given by the plant manager. There was very little correlation between any of the variables. 
 
-Stay tuned to this channel for the second part of my NBA study, in which I try to provide some answers to specific questions from the biggest NBA fan I know! Let me know what else **you** would like to know! 
+<img width="237" alt="CORRELATION TABLE" src="https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/5595afc1-1672-4aec-a1de-b7752665c797">
 
-I am looking for a full-time data analyst position, so if you know of an opportunity, please contact me. 
+Also, according to our 'expert', there are actually more data that are needed to be able to use machine learning to predict the % concentrates at the end, including:
+* Feeding tons
+* Plant flow chart (is there an enrichment unit before flotation? Usually magnetic separator for Fe)
+* Grinding parameters
+* Concentrate tons
+* Ph regulator.
+* Tailing grades
+* Tailing tons
+
+***Conclusion***
+
+In this project, I looked at data from a mining operation. I got to practice some **Python skills** and also learned some information about iron ore processing. It was interesting to read about the processes and to learn from actual metallurgical engineers. Even though I couldn’t accurately predict % Iron Concentrate or % Silica Concentrate with this data, the project was valuable.
+
+Please get in touch with any questions you have. I am looking for a full-time data analyst position and would love to connect with anyone who has a position open or who knows of one.
 
 Thanks for reading!
+<br>
+***References*** 
+[Froth Flotation and Its Application to Concentration of Low Grade Iron Ores](https://core.ac.uk/download/pdf/297714789.pdf)
 Example of a footnote[^1] within text.
 [^1]: Description of footnote text
 [How-To Geek](http://www.howtogeek.com)
