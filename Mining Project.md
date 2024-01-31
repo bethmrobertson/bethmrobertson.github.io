@@ -35,17 +35,19 @@ Once I read more information about the process, I became interested in what this
 <br>
 
 <br>***Describe for % Iron Concentrate and % Silica Concentrate***<br>
-I ran .describe() so I could see just the values for the intended products, % Iron Concentrate and % Silica Concentrate.
+I ran **.describe()** so I could see just the values for the intended products, % Iron Concentrate and % Silica Concentrate.
 
 ![65 05006799](https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/0b390194-d317-4be2-a62b-f4b871a824ed)
 
 Our dataset summary:
 <br>
-If you want to know which positions shoot the most three pointers for each team, here's a table for you. This would make an excellent pocket card to keep nearby for every game!
-<br>￼
-<img src="images/NBA table plot 3 pt pct.png?raw=true" width=400/>
+<img width="646" alt="Concentrato" src="https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/1d849f26-ed69-4bba-840c-18a93dd73e47">
 <br>
-In 2022-23, teams had to watch out for Boston center, Al Horford (44.6%), and Memphis shooting guard, Luke Kennard (49.4%). They were the most accurate 3 point shooters in the league. In 2023-2024 so far, the Suns Grayson Allen is leading the way with 48.1% accuracy.
+Therefore, according to our ‘expert’, this mine is actually not producing in the way it should be producing.
+<br>￼
+<br>***Correlation***<br>
+
+I used the correlation method, **.corr()**, to see what the correlation was between the variables for a date given by the plant manager. There was very little correlation between any of the variables. 
 
 Stay tuned to this channel for the second part of my NBA study, in which I try to provide some answers to specific questions from the biggest NBA fan I know! Let me know what else **you** would like to know! 
 
