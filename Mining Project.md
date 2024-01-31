@@ -39,9 +39,7 @@ I ran .describe() so I could see just the values for the intended products, % Ir
 
 ![65 05006799](https://github.com/bethmrobertson/bethmrobertson.github.io/assets/144495411/0b390194-d317-4be2-a62b-f4b871a824ed)
 
-<br>
-
-***Who shoots the most threes?***
+Our dataset summary:
 <br>
 If you want to know which positions shoot the most three pointers for each team, here's a table for you. This would make an excellent pocket card to keep nearby for every game!
 <br>￼
