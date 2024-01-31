@@ -66,7 +66,7 @@ Also, according to our 'expert', there are actually more data that are needed to
 * Tailing grades
 * Tailing tons
 
-***Conclusion***
+***Project Wrap-up***
 
 In this project, I looked at data from a mining operation. I got to practice some **Python skills** and also learned some information about iron ore processing. It was interesting to read about the processes and to learn from actual metallurgical engineers. Even though I couldn’t accurately predict % Iron Concentrate or % Silica Concentrate with this data, the project was valuable.
 
