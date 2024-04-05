@@ -21,7 +21,7 @@ The first thing I did was compare electricity costs between Houston and Elgin. I
 
 Next, I gathered our electricity usage info from the ComEd site and entered it into an Excel spreadsheet.
 Then I pulled our personal temperature data, captured by our weather station and synced on the Ambient Weather Network. This left a gap in the temperature information of a few months when N lived there and we didn’t have the weather station. So I pulled temperature data from O’Hare airport (which is not too far away) through the NOAA Center for Environmental Information.
-It turned out that getting all of the temperature information into Excel was going to be a tedious exercise since the timeframes from O’Hare and ComEd weren’t the same. So I changed to from Excel to Python to build the final dataset that contained all three inputs.
+It turned out that getting all of the temperature information into Excel was going to be a tedious exercise since the timeframes from O’Hare and ComEd weren’t the same. So I changed from Excel to Python to build the final dataset that contained all three inputs.
 
 **Cleaning and Analyzing the Data**
 I pulled the date and cost from the ComEd data, and the min, max, and mean of the O’Hare and Ambient temperature datasets. Once I fixed the names of the columns, I combined all three datasets by date using an outer merge in Python. Then, using Seaborn, I plotted a few different combinations until I settled on the average temperature vs. the average usage by day. This told me that the electricity usage was definitely tied to the temperature. But what about the other questions - did human or dog guests impact usage significantly?
