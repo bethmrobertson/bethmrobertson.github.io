@@ -5,7 +5,7 @@
 ## My Projects
 
 ### [Hospital ER Analysis (Excel)](ER Dashboard.md)
-<img src="images/ext-froth-flotation.png.jpeg?raw=true"/> <br>
+<img src="images/ER Dashboard screenshot.png?raw=true"/> <br>
 #### Project description
 Recently, I attended an Excel project development session with Chris French. We created a dashboard related to data from a hospital emergency room. 
 
