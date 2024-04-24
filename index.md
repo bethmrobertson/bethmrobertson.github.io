@@ -5,7 +5,7 @@
 ## My Projects
 
 ### [Hospital ER Analysis (Excel)](ER Dashboard.md)
-<img src="images/ER Dashboard screenshot.png?raw=true"/> <br>
+<img src="images/ER Dashboard screenshot.png?raw=true"/> (https://1drv.ms/x/s!AmeVTcJTYLR9qmtCv5oAiBpYXn9-) <br>
 #### Project description
 Recently, I attended an Excel project development session with Chris French. We created a dashboard related to data from a hospital emergency room. 
 
