@@ -9,7 +9,7 @@
 #### Project description
 Recently, I attended an Excel project development session with Chris French. We created a dashboard related to data from a hospital emergency room. 
 
-I learned so much about creating a dashboard in Excel!! I was so enthusiastic, that I decided to take the project further and make it my own. Below you will find my project and some of the learnings I picked up along the way.
+I learned so much about creating a dashboard in Excel!! Below you will find my project and some of the learnings I picked up along the way.
 
 ##### Here is the [link](https://1drv.ms/x/s!AmeVTcJTYLR9qmtCv5oAiBpYXn9-) to the dashboard.
 
