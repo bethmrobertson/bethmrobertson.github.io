@@ -12,7 +12,7 @@ Recently, I attended an Excel project development session with Chris French. We 
 I learned so much about creating a dashboard in Excel!! Below you will find my project and some of the learnings I picked up along the way.
 
 ##### Here is the [link](https://1drv.ms/x/s!AmeVTcJTYLR9qmtCv5oAiBpYXn9-) to the dashboard so you can try it out!
-And here is the [link](https://www.linkedin.com/pulse/orthopedics-er-project-excel-beth-robertson-vdkuc/) to my LinkedIn post about the project.
+And here is the [link](https://www.linkedin.com/pulse/orthopedics-er-project-excel-beth-robertson-vdkuc/) to my LinkedIn article about the project.
 
 ___
 
